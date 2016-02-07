@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<words>
+  <word>
+    <wordId>1</wordId>
+    <groupId>1</groupId>
+    <langId>1</langId>
+	<catId>1</catId>
+	<wordActive>1</wordActive>
+	<wordCustom>0</wordCustom>
+	<wordText>Adır</wordText>
+  </word>
+  <word>
+    <wordId>2</wordId>
+    <groupId>1</groupId>
+    <langId>2</langId>
+	<catId>1</catId>
+	<wordActive>1</wordActive>
+	<wordCustom>Ateş</wordCustom>
+  </word>
+  <word>
+    <wordId>3</wordId>
+    <groupId>2</groupId>
+    <langId>1</langId>
+	<catId>1</catId>
+	<wordActive>1</wordActive>
+	<wordCustom>Asmen</wordCustom>
+  </word>
+  <word>
+    <wordId>4</wordId>
+    <groupId>2</groupId>
+    <langId>2</langId>
+	<catId>1</catId>
+	<wordActive>1</wordActive>
+	<wordCustom>Gökyüzü</wordCustom>
+  </word>  
+  <word>
+    <wordId>5</wordId>
+    <groupId>3</groupId>
+    <langId>1</langId>
+	<catId>2</catId>
+	<wordActive>1</wordActive>
+	<wordCustom>0</wordCustom>
+	<wordText>Kutık çı zoneno jare çıka.</wordText>
+  </word>
+  <word>
+    <wordId>6</wordId>
+    <groupId>3</groupId>
+    <langId>2</langId>
+	<catId>2</catId>
+	<wordActive>1</wordActive>
+	<wordCustom>Köpek ne bilsin kutsal yeri.</wordCustom>
+  </word>
+</words>

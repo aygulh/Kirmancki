@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language>
+    <langId>1</langId>
+    <langShortName>KR1</langShortName>
+    <langName>Kırmancki</langName>
+  </language>
+  <language>
+    <langId>2</langId>
+    <langShortName>KR2</langShortName>
+    <langName>Kırdaşki</langName>
+  </language>  
+  <language>
+    <langId>3</langId>
+    <langShortName>TU</langShortName>
+    <langName>Türkçe</langName>
+  </language>
+  <language>
+    <langId>4</langId>
+    <langShortName>EN</langShortName>
+    <langName>English</langName>
+  </language>
+  <language>
+    <langId>5</langId>
+    <langShortName>DE</langShortName>
+    <langName>Deutch</langName>
+  </language>  
+  <language>
+    <langId>6</langId>
+    <langShortName>NL</langShortName>
+    <langName>Dutch</langName>
+  </language>  
+</languages>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Kırmancki Öğren</string>
+    <string name="settings_app_name">Ayarlar</string>
+    <string name="menu_settings">Ayarlar</string>
+    <string name="menu_all">All</string>
+    <string name="menu_cheap">Cheap</string>
+    <string name="menu_fancy">Fancy</string>
+    <string name="btn_createfile">Create file</string>
+    <string name="btn_readfile">Read file</string>    
+    <string name="action_settings">Action Settings</string>
+	<string name="not_found">Not found!!</string>
+</resources>

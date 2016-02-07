@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<categories>
+  <category>
+    <catId>1</catId>
+    <catName>Herçi</catName>
+    <catDesc>Naska herçi esto</catDesc>
+    <catlangId>1</catlangId>    
+  </category>
+  <category>
+    <catId>2</catId>
+    <catName>Qese Pilu</catName>
+    <catDesc>Qese pilu naska neşir beno. Gereke bı mısnere.</catDesc>
+    <catlangId>1</catlangId>
+  </category>
+  <category>
+    <catId>3</catId>
+    <catName>Ju-Dı-Hire</catName>
+    <catDesc>Ju-dı-hire</catDesc>
+    <catlangId>1</catlangId>
+  </category>
+  <category>
+    <catId>1</catId>
+    <catName>Genel</catName>
+    <catDesc>Genel konular ile ilgili şeyler</catDesc>
+    <catlangId>2</catlangId>    
+  </category>
+  <category>
+    <catId>2</catId>
+    <catName>Atasözleri</catName>
+    <catDesc>Atasözleri bu başlık altında toplanacak</catDesc>
+    <catlangId>2</catlangId>
+  </category>
+  <category>
+    <catId>3</catId>
+    <catName>Sayılar</catName>
+    <catDesc>Temel sayılar</catDesc>
+    <catlangId>2</catlangId>
+  </category>
+  <category>
+    <catId>7</catId>
+    <catName>Zaman</catName>
+    <catDesc>Ay, gün, yıl vs ile ilgili tanımlamalar</catDesc>
+    <catlangId>2</catlangId>
+  </category>
+  <category>
+    <catId>8</catId>
+    <catName>İletişim</catName>
+    <catDesc>Günlük selamlaşma ve diyaloglar</catDesc>
+    <catlangId>2</catlangId>
+  </category>
+  <category>
+    <catId>9</catId>
+    <catName>Yemek</catName>
+    <catDesc>Yemek isimleri, tarifler ve alışkanlıklar vs</catDesc>
+    <catlangId>2</catlangId>
+  </category>
+</categories>

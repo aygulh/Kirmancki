@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <PreferenceCategory android:title="General settings" >
+        <EditTextPreference
+            android:key="pref_username"
+            android:title="User name" />
+
+        <CheckBoxPreference
+            android:key="pref_viewimages"
+            android:summary="Determines whether tours are shown with images"
+            android:title="View images" />
+        
+        <EditTextPreference 
+            android:key="pref_nativeLanguage" 
+            android:summary="Speaking language can be defind here." 
+            android:title="Native Language"/>
+        
+        <EditTextPreference 
+            android:key="pref_learningLanguage" 
+            android:summary="Translate to language" 
+            android:title="Learning Language"/>
+    </PreferenceCategory>
+
+</PreferenceScreen>
