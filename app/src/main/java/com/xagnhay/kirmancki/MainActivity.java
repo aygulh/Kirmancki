@@ -21,6 +21,9 @@ import com.xagnhay.kirmancki.model.Category;
 import com.xagnhay.kirmancki.model.Words;
 import com.xagnhay.kirmancki.util.UIHelper;
 
+import com.google.android.gms.analytics.HitBuilders;
+import com.google.android.gms.analytics.Tracker;
+
 import java.util.List;
 
 public class MainActivity extends ListActivity {
@@ -40,10 +43,21 @@ public class MainActivity extends ListActivity {
     private List<Words> words;
 	MyDataSource datasource;
 
+	/**
+	 * The {@link Tracker} used to record screen views.
+	 */
+	private Tracker mTracker;
+
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
+
+		// [START shared_tracker]
+		// Obtain the shared Tracker instance.
+		KirmanckiApplication application = (KirmanckiApplication) getApplication();
+		mTracker = application.getDefaultTracker();
+		// [END shared_tracker]
 
 		datasource = new MyDataSource(this);
 		datasource.open();
@@ -127,16 +141,35 @@ public class MainActivity extends ListActivity {
 		switch (item.getItemId()) {
 
             case R.id.menu_settings:
+
+                mTracker.send(new HitBuilders.EventBuilder()
+                        .setCategory("Action")
+                        .setAction("Settings_Screen")
+                        .build());
+
                 Intent intent1 = new Intent(this, SettingsActivity.class);
                 startActivity(intent1);
                 break;
 
             case R.id.menu_update:
+				// [START custom_event]
+				mTracker.send(new HitBuilders.EventBuilder()
+						.setCategory("Action")
+						.setAction("Update_Screen")
+						.build());
+				// [END custom_event]
+
                 Intent intent2 = new Intent(this, CheckUpdateActivity.class);
                 startActivity(intent2);
                 break;
 
             case R.id.menu_about:
+
+                mTracker.send(new HitBuilders.EventBuilder()
+                        .setCategory("Action")
+                        .setAction("About_Screen")
+                        .build());
+
                 Intent intent3 = new Intent(this, AboutActivity.class);
                 startActivity(intent3);
                 break;

@@ -4,12 +4,16 @@
         "source": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\src\\main\\res\\raw\\languages.xml"
     },
     {
+        "merged": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\build\\intermediates\\res\\merged\\debug\\raw\\words.xml",
+        "source": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\src\\main\\res\\raw\\words.xml"
+    },
+    {
         "merged": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\build\\intermediates\\res\\merged\\debug\\raw\\categories_json.json",
         "source": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\src\\main\\res\\raw\\categories_json.json"
     },
     {
-        "merged": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\build\\intermediates\\res\\merged\\debug\\raw\\words.xml",
-        "source": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\src\\main\\res\\raw\\words.xml"
+        "merged": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\build\\intermediates\\res\\merged\\debug\\raw\\gtm_analytics",
+        "source": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-tagmanager-v4-impl\\10.0.1\\res\\raw\\gtm_analytics"
     },
     {
         "merged": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\build\\intermediates\\res\\merged\\debug\\raw\\words_json.json",
