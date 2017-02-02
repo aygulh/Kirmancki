@@ -1,20 +1,11 @@
 package com.xagnhay.kirmancki;
 
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.List;
-
-import com.xagnhay.kirmancki.db.MyDataSource;
-import com.xagnhay.kirmancki.db.MyDBOpenHelper;
-import com.xagnhay.kirmancki.model.Category;
-import com.xagnhay.kirmancki.model.Words;
-
 import android.app.Activity;
-import android.database.Cursor;
+import android.content.SharedPreferences;
 import android.os.Bundle;
+import android.preference.PreferenceManager;
 import android.util.Log;
 import android.view.View;
-import android.widget.ArrayAdapter;
 import android.widget.ExpandableListView;
 import android.widget.ExpandableListView.OnChildClickListener;
 import android.widget.ExpandableListView.OnGroupClickListener;
@@ -22,25 +13,47 @@ import android.widget.ExpandableListView.OnGroupCollapseListener;
 import android.widget.ExpandableListView.OnGroupExpandListener;
 import android.widget.Toast;
 
+import com.xagnhay.kirmancki.db.MyDataSource;
+import com.xagnhay.kirmancki.model.Category;
+
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.List;
+
 public class WordsActivity extends Activity {
 
-	private static final String LOGTAG = "WORDS_DETAIL";
-	public int nativeLanguage = 1;
-	public int translateToLanguage = 2;
+    public static final String LOGTAG = WordsActivity.class.getSimpleName();
+    public static final String ANADIL="cb_preference";
+
+	private int nativeLanguage = 1;
+	private int translateToLanguage = 2;
 	
 	MyDataSource datasource;
 	Category category;
-	
+
+	private SharedPreferences settings;
+
 	ExpandableListAdapter listAdapter;
 	ExpandableListView expListView;
 	List<String> listDataHeader;
-	List<String> listDataDetail;
 	HashMap<String, List<String>> listDataChild;
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_explistview);
+
+        settings = PreferenceManager.getDefaultSharedPreferences(this);
+        Boolean prefValue=settings.getBoolean(ANADIL,true);
+
+        if (prefValue) {
+            nativeLanguage = 1;
+            translateToLanguage = 2;
+        } else
+        {
+            nativeLanguage = 2;
+            translateToLanguage = 1;
+        }
 
 		// get the listview
 		expListView = (ExpandableListView) findViewById(R.id.lvExp);
@@ -58,6 +71,7 @@ public class WordsActivity extends Activity {
 //		Words wordTranslate = datasource.FindTranslationWord(translateToLanguage, wordNative.getGroupId());
 		
 		// preparing list data
+
 		prepareListData();
 
 		listAdapter = new ExpandableListAdapter(this, listDataHeader, listDataChild);
@@ -69,9 +83,9 @@ public class WordsActivity extends Activity {
 			@Override
 			public boolean onGroupClick(ExpandableListView parent, View v,
 					int groupPosition, long id) {
-				// Toast.makeText(getApplicationContext(),
-				// "Group Clicked " + listDataHeader.get(groupPosition),
-				// Toast.LENGTH_SHORT).show();
+				 //Toast.makeText(getApplicationContext(),
+				 //"Group Clicked " + listDataHeader.get(groupPosition),
+				 //Toast.LENGTH_SHORT).show();
 				return false;
 			}
 		});
@@ -132,14 +146,14 @@ public class WordsActivity extends Activity {
 		// Adding child data
 		lh = datasource.filterWordsForExpandableLV("langid = " + nativeLanguage + " and catId = " + category.getCatId(), "groupId, langId");
 		ld = datasource.filterWordsForExpandableLV("langid = " + translateToLanguage + " and catId = " + category.getCatId(), "groupId, langId");
-		Log.i(LOGTAG, "number of list words:" + lh.size() + "number of translate details:" + ld.size());
+		//Log.i(LOGTAG, "number of list words:" + lh.size() + "number of translate details:" + ld.size());
 		
 		for (int i = 0; i <lh.size(); i++) {
-			Log.i(LOGTAG, "words:" + lh.get(i));
+			//Log.i(LOGTAG, "words:" + lh.get(i));
 			listDataHeader.add(lh.get(i));
 		}
 		for (int i = 0; i <ld.size(); i++) {
-			Log.i(LOGTAG, "words detail:" + ld.get(i));
+			//Log.i(LOGTAG, "words detail:" + ld.get(i));
 		}
 
 		for (int i = 0; i < lh.size(); i++) {			
@@ -147,7 +161,7 @@ public class WordsActivity extends Activity {
 //			ld2.add(" -> " + ld.get(i));
 //			ld2.add("-------");
 			listDataChild.put(listDataHeader.get(i), getTranslate(ld, i)); // Header, Child data
-			Log.i(LOGTAG, listDataHeader.get(i) + " -> " + ld.toString());
+			//Log.i(LOGTAG, listDataHeader.get(i) + " -> " + ld.toString());
 		}
 
 	}

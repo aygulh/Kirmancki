@@ -12,6 +12,10 @@
         "source": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\src\\main\\res\\layout\\list_group.xml"
     },
     {
+        "merged": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_update.xml",
+        "source": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\src\\main\\res\\layout\\activity_update.xml"
+    },
+    {
         "merged": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_worddetail.xml",
         "source": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\src\\main\\res\\layout\\activity_worddetail.xml"
     },
@@ -20,7 +24,15 @@
         "source": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\src\\main\\res\\layout\\activity_explistview.xml"
     },
     {
+        "merged": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_about.xml",
+        "source": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\src\\main\\res\\layout\\activity_about.xml"
+    },
+    {
         "merged": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_detail.xml",
         "source": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\src\\main\\res\\layout\\activity_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_welcome.xml",
+        "source": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\src\\main\\res\\layout\\activity_welcome.xml"
     }
 ]

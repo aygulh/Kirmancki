@@ -5,7 +5,7 @@ import android.os.Parcelable;
 
 public class Category implements Parcelable{
 	private long catId;
-	private long catlangId;
+	private long catLangId;
 	private String catName;
 	private String catDesc;
 	
@@ -29,15 +29,15 @@ public class Category implements Parcelable{
 		this.catDesc = catDesc;
 	}
 	
-	public long getCatlangId() {
-		return catlangId;
+	public long getCatLangId() {
+		return catLangId;
 	}
-	public void setCatlangId(long catlangId) {
-		this.catlangId = catlangId;
+	public void setCatLangId(long catlangId) {
+		this.catLangId = catlangId;
 	}
 	@Override
 	public String toString() {
-		return catName;
+		return catName; // + " (" + catId + ")";
 		//return catId + " - " + catName + "\n(" + catDesc + ")";
 	}
 	
@@ -46,7 +46,7 @@ public class Category implements Parcelable{
 	
 	public Category(Parcel in) {
 		catId = in.readLong();
-		catlangId = in.readLong();
+		catLangId = in.readLong();
 		catName = in.readString();
 	}
 	
@@ -58,7 +58,7 @@ public class Category implements Parcelable{
 	@Override
 	public void writeToParcel(Parcel dest, int flags) {
 		dest.writeLong(catId);
-		dest.writeLong(catlangId);
+		dest.writeLong(catLangId);
 		dest.writeString(catName);		
 	}
 	

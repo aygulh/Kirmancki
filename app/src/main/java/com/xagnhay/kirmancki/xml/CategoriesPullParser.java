@@ -1,20 +1,20 @@
 package com.xagnhay.kirmancki.xml;
 
-import java.io.IOException;
-import java.io.InputStream;
-import java.util.ArrayList;
-import java.util.List;
-
-import org.xmlpull.v1.XmlPullParser;
-import org.xmlpull.v1.XmlPullParserException;
-import org.xmlpull.v1.XmlPullParserFactory;
-
 import android.content.Context;
 import android.content.res.Resources.NotFoundException;
 import android.util.Log;
 
 import com.xagnhay.kirmancki.R;
 import com.xagnhay.kirmancki.model.Category;
+
+import org.xmlpull.v1.XmlPullParser;
+import org.xmlpull.v1.XmlPullParserException;
+import org.xmlpull.v1.XmlPullParserFactory;
+
+import java.io.IOException;
+import java.io.InputStream;
+import java.util.ArrayList;
+import java.util.List;
 
 public class CategoriesPullParser {
 
@@ -77,7 +77,7 @@ public class CategoriesPullParser {
 			}
 			else if (currentTag.equals(CATLANG)) {
 				Integer id = Integer.parseInt(xmlText);
-				currentCategory.setCatlangId(id);
+				currentCategory.setCatLangId(id);
 			}
 		}
 	}

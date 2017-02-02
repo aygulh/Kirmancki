@@ -1,17 +1,19 @@
 package com.xagnhay.kirmancki.db;
 
-import java.util.ArrayList;
-import java.util.List;
-
-import com.xagnhay.kirmancki.model.Category;
-import com.xagnhay.kirmancki.model.Words;
-
 import android.content.ContentValues;
 import android.content.Context;
 import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
 import android.util.Log;
+
+import com.xagnhay.kirmancki.model.Category;
+import com.xagnhay.kirmancki.model.Words;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import static com.xagnhay.kirmancki.R.raw.words;
 
 public class MyDataSource {
 
@@ -31,7 +33,9 @@ public class MyDataSource {
 		MyDBOpenHelper.COLUMN_WORDSCATID,
 		MyDBOpenHelper.COLUMN_WORDSGROUPID,
 		MyDBOpenHelper.COLUMN_WORDSLANGID,
-		MyDBOpenHelper.COLUMN_WORDSTEXT};
+		MyDBOpenHelper.COLUMN_WORDSTEXT,
+		MyDBOpenHelper.COLUMN_WORDSACTIVE,
+		MyDBOpenHelper.COLUMN_WORDSCUSTOM};
 	
 	public MyDataSource(Context context) {
 		dbhelper = new MyDBOpenHelper(context);
@@ -51,7 +55,7 @@ public class MyDataSource {
 		ContentValues values = new ContentValues();
 		values.put(MyDBOpenHelper.COLUMN_CATNAME, category.getCatName());
 		values.put(MyDBOpenHelper.COLUMN_CATDESC, category.getCatDesc());		
-		values.put(MyDBOpenHelper.COLUMN_CATLANGID, category.getCatlangId());
+		values.put(MyDBOpenHelper.COLUMN_CATLANGID, category.getCatLangId());
 		values.put(MyDBOpenHelper.COLUMN_CATID, category.getCatId());
 		long insertid = database.insert(MyDBOpenHelper.TABLE_CATEGORY, null, values);
 		//category.setCatId(insertid);
@@ -61,14 +65,14 @@ public class MyDataSource {
 	public Words create(Words words) {
 		ContentValues values = new ContentValues();
 		values.put(MyDBOpenHelper.COLUMN_WORDSLANGID, words.getLangId());
+        values.put(MyDBOpenHelper.COLUMN_WORDSGROUPID, words.getGroupId());
+        values.put(MyDBOpenHelper.COLUMN_WORDSCATID, words.getCatId());
 		values.put(MyDBOpenHelper.COLUMN_WORDSTEXT, words.getWordText());
-		values.put(MyDBOpenHelper.COLUMN_WORDSGROUPID, words.getGroupId());
-		values.put(MyDBOpenHelper.COLUMN_WORDSCATID, words.getCatId());
-		values.put(MyDBOpenHelper.COLUMN_WORDSREMARKS, words.getWordRemarks());		
-		values.put(MyDBOpenHelper.COLUMN_WORDSUSAGE, words.getWordUsage());
-		values.put(MyDBOpenHelper.COLUMN_WORDSSOUND, words.getWordSound());		
-		values.put(MyDBOpenHelper.COLUMN_WORDSIMAGE, words.getWordImage());
-		values.put(MyDBOpenHelper.COLUMN_WORDSTYPE, words.getWordType());		
+		//values.put(MyDBOpenHelper.COLUMN_WORDSREMARKS, words.getWordRemarks());
+		//values.put(MyDBOpenHelper.COLUMN_WORDSUSAGE, words.getWordUsage());
+		//values.put(MyDBOpenHelper.COLUMN_WORDSSOUND, words.getWordSound());
+		//values.put(MyDBOpenHelper.COLUMN_WORDSIMAGE, words.getWordImage());
+		//values.put(MyDBOpenHelper.COLUMN_WORDSTYPE, words.getWordType());
 		values.put(MyDBOpenHelper.COLUMN_WORDSACTIVE, words.getWordActive());
 		values.put(MyDBOpenHelper.COLUMN_WORDSCUSTOM, words.getWordCustom());
 		long insertid = database.insert(MyDBOpenHelper.TABLE_WORDS, null, values);
@@ -111,16 +115,47 @@ public class MyDataSource {
 		return database.update(MyDBOpenHelper.TABLE_WORDS, values, MyDBOpenHelper.COLUMN_WORDID + " = ?",
 				new String[] { String.valueOf(words.getWordId()) });
 	}
-	
+
+    public void createBulkCategories(List<Category> allCategories){
+        database.beginTransaction();
+        try{
+            for (Category c1 : allCategories) {
+                create(c1);
+            }
+            database.setTransactionSuccessful();
+        } catch (Exception e){
+            e.printStackTrace();
+        }finally {
+            database.endTransaction();
+        }
+    }
+
+    public void createBulkWords(List<Words> allWords){
+        database.beginTransaction();
+        try{
+            for (Words w1 : allWords) {
+                //if(isWordsExist("wordText=\"" + w1.getWordText() + "\"") == 0 )
+                create(w1);
+
+            }
+            database.setTransactionSuccessful();
+        } catch (Exception e){
+            e.printStackTrace();
+        }finally {
+            database.endTransaction();
+        }
+    }
+
 	public List<Category> findAll(String selection) {
 		
 		Cursor cursor = database.query(MyDBOpenHelper.TABLE_CATEGORY, allColumns, 
 				selection, null, null, null, null);
 				
-		Log.i(LOGTAG, "Returned " + cursor.getCount() + " rows");
+		Log.i(LOGTAG, "Returned categories: " + cursor.getCount() + " rows");
 		List<Category> categories = cursorToList(cursor);
 		return categories;
 	}
+
 
 	public List<Category> findFiltered(String selection, String orderBy) {
 		
@@ -140,7 +175,7 @@ public class MyDataSource {
 				category.setCatId(cursor.getLong(cursor.getColumnIndex(MyDBOpenHelper.COLUMN_CATID)));
 				category.setCatName(cursor.getString(cursor.getColumnIndex(MyDBOpenHelper.COLUMN_CATNAME)));
 				category.setCatDesc(cursor.getString(cursor.getColumnIndex(MyDBOpenHelper.COLUMN_CATDESC)));				
-				category.setCatlangId(cursor.getLong(cursor.getColumnIndex(MyDBOpenHelper.COLUMN_CATLANGID)));
+				category.setCatLangId(cursor.getLong(cursor.getColumnIndex(MyDBOpenHelper.COLUMN_CATLANGID)));
 				categories.add(category);
 			}
 		}
@@ -151,7 +186,7 @@ public class MyDataSource {
 
 		String query = "SELECT words.* FROM " +
 				"words JOIN category ON " +
-				"words.catId = category.catId and category.catlangid = 1";
+				"words.catId = category.catId and category.catlangid = 2";
 		Cursor cursor = database.rawQuery(query, null);
 
 		//Log.i(LOGTAG, "Words returned " + cursor.getCount() + " rows");
@@ -170,8 +205,8 @@ public class MyDataSource {
 		//Log.i(LOGTAG, "Words returned " + cursor.getCount() + " rows");
 
 		return cursor.getCount();
-	}	
-	
+	}
+
 	public Words FindTranslationWord(long translateToLanguage, long groupId) {
 
 		String query = "SELECT words.* FROM words " +
@@ -197,8 +232,8 @@ public class MyDataSource {
 		Cursor cursor = database.query(MyDBOpenHelper.TABLE_WORDS, allWordsColumns, 
 				selection, null, null, null, orderBy);
 
-		List<Words> wordss = wordscursorToList(cursor);
-		return wordss;
+		List<Words> wordsList = wordscursorToList(cursor);
+		return wordsList;
 	}
 	
 	private List<Words> wordscursorToList(Cursor cursor) {
@@ -212,13 +247,8 @@ public class MyDataSource {
 				w.setGroupId(cursor.getLong(cursor.getColumnIndex(MyDBOpenHelper.COLUMN_WORDSGROUPID)));
 				w.setLangId(cursor.getLong(cursor.getColumnIndex(MyDBOpenHelper.COLUMN_WORDSLANGID)));				
 				w.setWordText(cursor.getString(cursor.getColumnIndex(MyDBOpenHelper.COLUMN_WORDSTEXT)));				
-//				w.setWordActive(cursor.getInt(cursor.getColumnIndex(KirmanckiDBOpenHelper.COLUMN_WORDSACTIVE)));
-//				w.setWordCustom(cursor.getInt(cursor.getColumnIndex(KirmanckiDBOpenHelper.COLUMN_WORDSCUSTOM)));
-//				w.setWordImage(cursor.getString(cursor.getColumnIndex(KirmanckiDBOpenHelper.COLUMN_WORDSIMAGE)));
-//				w.setWordRemarks(cursor.getString(cursor.getColumnIndex(KirmanckiDBOpenHelper.COLUMN_WORDSREMARKS)));
-//				w.setWordSound(cursor.getString(cursor.getColumnIndex(KirmanckiDBOpenHelper.COLUMN_WORDSSOUND)));	
-//				w.setWordUsage(cursor.getString(cursor.getColumnIndex(KirmanckiDBOpenHelper.COLUMN_WORDSUSAGE)));
-//				w.setWordType(cursor.getString(cursor.getColumnIndex(KirmanckiDBOpenHelper.COLUMN_WORDSTYPE)));
+				w.setWordActive(cursor.getInt(cursor.getColumnIndex(MyDBOpenHelper.COLUMN_WORDSACTIVE)));
+				w.setWordCustom(cursor.getInt(cursor.getColumnIndex(MyDBOpenHelper.COLUMN_WORDSCUSTOM)));
 				wordss.add(w);
 				
 			}
@@ -235,10 +265,28 @@ public class MyDataSource {
 
 		if (cursor.getCount() > 0) {
 			while (cursor.moveToNext()) {
-				list1.add(cursor.getString(cursor.getColumnIndex(MyDBOpenHelper.COLUMN_WORDSTEXT)));
+				list1.add(cursor.getString(cursor.getColumnIndex(MyDBOpenHelper.COLUMN_WORDSTEXT))); // + "-" + cursor.getString(cursor.getColumnIndex(MyDBOpenHelper.COLUMN_WORDSGROUPID)));
 			}
 		}
 		return list1;
 	}
-	
+
+    public int isWordsExist(String selection) {
+
+        //Aynı kayıttan tekrar yaratmamak için bu kullanılıyor.
+        Cursor cursor = database.query(MyDBOpenHelper.TABLE_WORDS, allWordsColumns,
+                selection, null, null, null, null);
+
+        return cursor.getCount();
+    }
+
+    public int isCategoryExist(String selection) {
+
+        //Aynı kayıttan tekrar yaratmamak için bu kullanılıyor.
+        Cursor cursor = database.query(MyDBOpenHelper.TABLE_CATEGORY, allColumns,
+                selection, null, null, null, null);
+
+        return cursor.getCount();
+    }
+
 }

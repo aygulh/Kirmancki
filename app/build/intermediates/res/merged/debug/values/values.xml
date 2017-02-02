@@ -3,16 +3,30 @@
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
     <dimen name="medium_text">25sp</dimen>
-    <string name="action_settings">Action Settings</string>
     <string name="app_name">Kırmancki Öğren</string>
-    <string name="btn_createfile">Create file</string>
-    <string name="btn_readfile">Read file</string>
-    <string name="menu_all">All</string>
-    <string name="menu_cheap">Cheap</string>
-    <string name="menu_fancy">Fancy</string>
+    <string name="btn_close">Kapat</string>
+    <string name="menu_about">Hakkında</string>
     <string name="menu_settings">Ayarlar</string>
-    <string name="not_found">Not found!!</string>
+    <string name="menu_update">Güncelleme Kontrol</string>
+    <string name="msg_alertmessage">Çıkmak istediğinizden eminmisiniz? Veritabanı hazırlama işlemi henüz bitmedi. Program düzgün çalışmayabilir.</string>
+    <string name="msg_alertno">Hayır</string>
+    <string name="msg_alerttitle">Programdan Çıkılıyor..</string>
+    <string name="msg_alertyes">Evet</string>
+    <string name="msg_count">Toplam yüklenen veri sayısı:</string>
+    <string name="msg_ctgry">Bu Kategoriye ait detay bulunamadı ....</string>
+    <string name="msg_dil1">Ana dil: Kırmancki, Öğrenilen dil: Türkçe</string>
+    <string name="msg_dil2">Ana dil: Türkçe, Öğrenilen dil: Kırmancki</string>
+    <string name="msg_email">email: aygulh@gmail.com</string>
+    <string name="msg_firstsetup">Program ilk kez çalıştırıldığı için bu ekranı görüyorsunuz ve sözlük veritabanı hazırlanıyor. Bu işlem bir kaç dakika sürebilir. Veritabanı oluşturulduktan sonra, sonraki çalıştırmalarda bu ekran görünmeyecektir. Bu işlem bitene kadar programı kapatmayın.</string>
+    <string name="msg_help">Yardım</string>
+    <string name="msg_helptext">Güncellemeleri almak için menuden \"Güncelleme Kontrol\" seçilerek sunucuda yeni eklenen veriler varsa alınabilir. \n \n \"Ayarlar\" menüsünden hangi dilde kelimeri gösterip, hangi dilde öğrenmek istediğinizi seçebilirsiniz. Örneğin Kırmancki de gösterim için kutucuğu işaretlemek gerekir. İşaretli değilse ekrandaki bilgiler Türkçe gösterilir.</string>
+    <string name="msg_wait">İlk kullanım için veritabanı oluşturuluyor. Lütfen bekleyin .....</string>
+    <string name="msg_yazan">Yazan: Hıdır Aygül</string>
     <string name="settings_app_name">Ayarlar</string>
+    <string name="url_category">http://192.168.13.191:8810/HAlarm.zip/categories_json.json</string>
+    <string name="url_for_categoryies">http://192.168.13.191:8810/HAlarm.zip/categories_json.json</string>
+    <string name="url_for_words">http://192.168.13.191:8810/HAlarm.zip/words_json.json</string>
+    <string name="url_words">http://192.168.13.191:8810/HAlarm.zip/words_json.json</string>
     <style name="AppBaseTheme" parent="android:Theme.Light">
         <!--
             Theme customizations available in newer API levels can go in

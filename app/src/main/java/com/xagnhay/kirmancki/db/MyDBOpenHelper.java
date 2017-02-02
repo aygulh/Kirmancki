@@ -9,13 +9,13 @@ public class MyDBOpenHelper extends SQLiteOpenHelper {
 	private static final String LOGTAG = "KIRMANCKI DBHELPER";
 
 	private static final String DATABASE_NAME = "kirmancki.db";
-	private static final int DATABASE_VERSION = 1;
+	private static final int DATABASE_VERSION = 2;
 	
 	public static final String TABLE_CATEGORY = "category";
 	public static final String COLUMN_CATID   = "catId";
 	public static final String COLUMN_CATNAME = "catName";
 	public static final String COLUMN_CATDESC = "catDesc";
-	public static final String COLUMN_CATLANGID = "catlangId";
+	public static final String COLUMN_CATLANGID = "catLangId";
 	
 //	private static final String TABLE_CREATE_CATEGORY = 
 //			"CREATE TABLE " + TABLE_CATEGORY + "(" +
