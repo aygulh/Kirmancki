@@ -1,0 +1,78 @@
+    public void getLangWords() {
+        /*
+        // Aync task ile kelime verisini dosyadan okuyup yaratmak için
+        
+        int iNumberofExistingWords = datasource.isWordsExist("1=1");
+
+        if (iNumberofExistingWords == 0) {
+            createWordData();
+        }
+        */
+    }
+    
+    private void createWordData() {
+        /*
+        //Async task ı yaratıp çalıştırma
+        GetWordsFromFile myTask = new GetWordsFromFile();
+        myTask.execute(R.raw.words_json);
+        */
+    }
+
+    /**
+     * Async task class to get words json by making HTTP call
+     */
+    private class GetWordsFromFile extends AsyncTask<Integer, Integer, Integer> {
+
+        InputStream is;
+        Scanner scanner;
+        StringBuilder builder;
+        int icount = 0;
+
+        @Override
+        protected void onPreExecute() {
+            //pDialog.show();
+        }
+
+        @Override
+        protected  Integer doInBackground(Integer... params) {
+
+            is = getResources().openRawResource(params[0]);
+
+            scanner = new Scanner(is);
+
+            builder = new StringBuilder();
+
+            while (scanner.hasNextLine()) {
+                builder.append(scanner.nextLine());
+                //publishProgress();
+            }
+
+            WordsJSONParser parser = new WordsJSONParser();
+            List<Words> words = parser.parseWJSON(builder.toString());
+            if (words.size() != 0) {
+                for (Words aword : words) {
+                    datasource.create(aword);
+                    icount ++;
+                    //publishProgress();
+                }
+            }
+            return icount;
+        }
+
+        @Override
+        protected void onProgressUpdate(Integer... values) {
+            //pDialog.incrementProgressBy(values[0]);
+        }
+
+        @Override
+        protected void onPostExecute(Integer icount) {
+
+            //if (pDialog.isShowing())
+            //   pDialog.dismiss();
+
+            Toast.makeText(getApplicationContext(),
+                    getResources().getText(R.string.msg_count) + icount.toString(),
+                    Toast.LENGTH_LONG)
+                    .show();
+        }
+    }
