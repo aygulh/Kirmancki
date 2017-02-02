@@ -1,0 +1,5656 @@
+{
+  "response": {
+    "Language": {
+      "Words": [
+        {
+          "langId": 1,
+          "groupId": 383,
+          "catId": 2,
+          "wordText": "Ga ake gınawaro karyd sero bene pır",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 384,
+          "catId": 2,
+          "wordText": "Gao hewl lızmade belibeno",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 385,
+          "catId": 2,
+          "wordText": "Guke çey gae çeyra neterseno",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 386,
+          "catId": 2,
+          "wordText": "Hona ostor negureto, nalu ceno",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 387,
+          "catId": 2,
+          "wordText": "Her theyr zone hora waneno",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 388,
+          "catId": 2,
+          "wordText": "Hata kare keno, kesıke vejina dare ser",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 389,
+          "catId": 2,
+          "wordText": "Her vas koka ho ser reweno",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 390,
+          "catId": 2,
+          "wordText": "Manga merde, do bıreya",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 391,
+          "catId": 2,
+          "wordText": "Miya sıpıye şa nenena",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 392,
+          "catId": 2,
+          "wordText": "More luk bela ho rew viveno",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 393,
+          "catId": 2,
+          "wordText": "Male dina dinade maneno",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 394,
+          "catId": 2,
+          "wordText": "Meke mevine",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 395,
+          "catId": 2,
+          "wordText": "Mor lona ho naskeno",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 396,
+          "catId": 2,
+          "wordText": "Mordemo vesan, aree horak nu tıreno",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 397,
+          "catId": 2,
+          "wordText": "Mordemo xıravınra qeso xıravın vejino",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 398,
+          "catId": 2,
+          "wordText": "Kes nevano doe mı tırso",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 399,
+          "catId": 2,
+          "wordText": "Ko çıkaşke berzı lınga ison kunara cı",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 400,
+          "catId": 2,
+          "wordText": "Kerge hewne hode qut diyo",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 401,
+          "catId": 2,
+          "wordText": "Kore veyve çı, qerre dawul çı",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 402,
+          "catId": 2,
+          "wordText": "Kutıkoke ave çüya şi mal, deyra xer nino",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 403,
+          "catId": 2,
+          "wordText": "Kutık çı zoneno jare çıka",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 404,
+          "catId": 2,
+          "wordText": "Xetıre ağwi nesimino",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 405,
+          "catId": 2,
+          "wordText": "Xıravınenra kar nebeno",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 406,
+          "catId": 2,
+          "wordText": "Kemera gırse hurenya hodera",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 407,
+          "catId": 2,
+          "wordText": "Voreko hewl kozde beliyo",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 408,
+          "catId": 2,
+          "wordText": "Vas bıne kemerede nemaneno",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 409,
+          "catId": 2,
+          "wordText": "Viçik piçik, şi vejave niçık",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 410,
+          "catId": 2,
+          "wordText": "Zimel pısıngerak este",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 411,
+          "catId": 2,
+          "wordText": "Aqılve aqıla ferq esto, aqıle butine ju niyo",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 412,
+          "catId": 2,
+          "wordText": "Aqıl eve peru neroşino",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 413,
+          "catId": 2,
+          "wordText": "Aqıl barekerdo, bom aqıle ho gureto",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 414,
+          "catId": 2,
+          "wordText": "Aree xıravıno, weno neweno mırd nebeno",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 415,
+          "catId": 2,
+          "wordText": "Aqıl lesede niyo, saredero",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 416,
+          "catId": 2,
+          "wordText": "Bom baqılede zewezno, roza bine şiyo vato bere na boma ho bere",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 417,
+          "catId": 2,
+          "wordText": "Bom bomra terseno, baqıl bomra terseno",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 418,
+          "catId": 2,
+          "wordText": "Berz mepere, qız kuna",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 419,
+          "catId": 2,
+          "wordText": "Bırao qız dayma beno gırs",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 420,
+          "catId": 2,
+          "wordText": "Ciran cirano ho naskeno",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 421,
+          "catId": 2,
+          "wordText": "Cemate bomu nebiyo",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 422,
+          "catId": 2,
+          "wordText": "Cırano xıravın ison keno vayire her çi",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 423,
+          "catId": 2,
+          "wordText": "Ci çikake hurefiye hone bue vejina",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 424,
+          "catId": 3,
+          "wordText": "Ju",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 425,
+          "catId": 3,
+          "wordText": "Dı",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 426,
+          "catId": 3,
+          "wordText": "Hire",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 427,
+          "catId": 3,
+          "wordText": "Çor",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 428,
+          "catId": 3,
+          "wordText": "Phonc",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 429,
+          "catId": 3,
+          "wordText": "Ses",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 430,
+          "catId": 3,
+          "wordText": "Hot",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 431,
+          "catId": 3,
+          "wordText": "Heşt",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 432,
+          "catId": 3,
+          "wordText": "Neu",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 433,
+          "catId": 3,
+          "wordText": "Des ",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 434,
+          "catId": 3,
+          "wordText": "Desju",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 435,
+          "catId": 3,
+          "wordText": "Desdı",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 436,
+          "catId": 3,
+          "wordText": "Deshire",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 437,
+          "catId": 3,
+          "wordText": "Desçor",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 438,
+          "catId": 3,
+          "wordText": "Desphonc",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 439,
+          "catId": 3,
+          "wordText": "Desses",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 440,
+          "catId": 3,
+          "wordText": "Deshot",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 441,
+          "catId": 3,
+          "wordText": "Desheşt",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 442,
+          "catId": 3,
+          "wordText": "Desneu",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 443,
+          "catId": 3,
+          "wordText": "Vişt",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 444,
+          "catId": 3,
+          "wordText": "Hires",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 445,
+          "catId": 3,
+          "wordText": "Çewres",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 446,
+          "catId": 3,
+          "wordText": "Phoncas",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 447,
+          "catId": 3,
+          "wordText": "Şeştay",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 448,
+          "catId": 3,
+          "wordText": "Hotay",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 449,
+          "catId": 3,
+          "wordText": "Heştay",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 450,
+          "catId": 3,
+          "wordText": "Neway",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 451,
+          "catId": 3,
+          "wordText": "Se ",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 452,
+          "catId": 3,
+          "wordText": "Dısey",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 453,
+          "catId": 3,
+          "wordText": "Hiresey",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 454,
+          "catId": 3,
+          "wordText": "Çorsey",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 455,
+          "catId": 3,
+          "wordText": "Phoncsey",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 456,
+          "catId": 3,
+          "wordText": "Sessey",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 457,
+          "catId": 3,
+          "wordText": "Hotsey",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 458,
+          "catId": 3,
+          "wordText": "Heştsey",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 459,
+          "catId": 3,
+          "wordText": "Neusey",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 460,
+          "catId": 3,
+          "wordText": "Hazar",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 461,
+          "catId": 3,
+          "wordText": "Hazaruse",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 462,
+          "catId": 3,
+          "wordText": "Dıhazar",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 463,
+          "catId": 3,
+          "wordText": "Hirehazar",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 464,
+          "catId": 3,
+          "wordText": "Çorhazar",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 465,
+          "catId": 3,
+          "wordText": "Phonchazar",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 466,
+          "catId": 3,
+          "wordText": "Deshazar",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 467,
+          "catId": 3,
+          "wordText": "Vişthazar",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 468,
+          "catId": 3,
+          "wordText": "Phoncseyhazar",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 469,
+          "catId": 3,
+          "wordText": "Jumilyon",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 470,
+          "catId": 4,
+          "wordText": "Zewez",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 471,
+          "catId": 4,
+          "wordText": "Zewejiyen",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 472,
+          "catId": 4,
+          "wordText": "A",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 473,
+          "catId": 4,
+          "wordText": "Areve",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 474,
+          "catId": 4,
+          "wordText": "beçike",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 475,
+          "catId": 4,
+          "wordText": "bevayir",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 476,
+          "catId": 4,
+          "wordText": "Bije",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 477,
+          "catId": 4,
+          "wordText": "Bıra",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 478,
+          "catId": 4,
+          "wordText": "Bon",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 479,
+          "catId": 4,
+          "wordText": "Camerd",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 480,
+          "catId": 4,
+          "wordText": "Çe ",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 481,
+          "catId": 4,
+          "wordText": "Çeneke",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 482,
+          "catId": 4,
+          "wordText": "Cenike",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 483,
+          "catId": 4,
+          "wordText": "Çewer",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 484,
+          "catId": 4,
+          "wordText": "Dare",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 485,
+          "catId": 4,
+          "wordText": "dest",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 486,
+          "catId": 4,
+          "wordText": "Domen",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 487,
+          "catId": 4,
+          "wordText": "Ey",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 488,
+          "catId": 4,
+          "wordText": "Ez",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 489,
+          "catId": 4,
+          "wordText": "Gome",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 490,
+          "catId": 4,
+          "wordText": "hard",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 491,
+          "catId": 4,
+          "wordText": "Hazaru",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 492,
+          "catId": 4,
+          "wordText": "Hurdi",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 493,
+          "catId": 4,
+          "wordText": "Kutık",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 494,
+          "catId": 4,
+          "wordText": "Lazek",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 495,
+          "catId": 4,
+          "wordText": "Lıng",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 496,
+          "catId": 4,
+          "wordText": "Lızge ",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 497,
+          "catId": 4,
+          "wordText": "Lozıne",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 498,
+          "catId": 4,
+          "wordText": "ma ",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 499,
+          "catId": 4,
+          "wordText": "Mae",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 500,
+          "catId": 4,
+          "wordText": "Mordem",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 501,
+          "catId": 4,
+          "wordText": "O",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 502,
+          "catId": 4,
+          "wordText": "Pero ",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 503,
+          "catId": 4,
+          "wordText": "pey",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 504,
+          "catId": 4,
+          "wordText": "Peze",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 505,
+          "catId": 4,
+          "wordText": "Pi",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 506,
+          "catId": 4,
+          "wordText": "Pirtok",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 507,
+          "catId": 4,
+          "wordText": "Qalık",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 508,
+          "catId": 4,
+          "wordText": "Qan",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 509,
+          "catId": 4,
+          "wordText": "Qewe",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 510,
+          "catId": 4,
+          "wordText": "Raa Hak",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 511,
+          "catId": 4,
+          "wordText": "Rae",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 512,
+          "catId": 4,
+          "wordText": "Rınd",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 513,
+          "catId": 4,
+          "wordText": "Rındek",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 514,
+          "catId": 4,
+          "wordText": "Rındekam",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 515,
+          "catId": 4,
+          "wordText": "Sare",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 516,
+          "catId": 4,
+          "wordText": "Sıma",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 517,
+          "catId": 4,
+          "wordText": "Sur",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 518,
+          "catId": 4,
+          "wordText": "Tever",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 519,
+          "catId": 4,
+          "wordText": "Tı ",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 520,
+          "catId": 4,
+          "wordText": "vayir",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 521,
+          "catId": 4,
+          "wordText": "Velik",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 522,
+          "catId": 4,
+          "wordText": "Veyvıke",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 523,
+          "catId": 4,
+          "wordText": "Wae",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 524,
+          "catId": 4,
+          "wordText": "Waştiye",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 525,
+          "catId": 4,
+          "wordText": "Wes",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 526,
+          "catId": 4,
+          "wordText": "Zaf",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 527,
+          "catId": 4,
+          "wordText": "Zon",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 528,
+          "catId": 4,
+          "wordText": "Qıskek",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 529,
+          "catId": 4,
+          "wordText": "Qız",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 530,
+          "catId": 4,
+          "wordText": "Gırs",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 531,
+          "catId": 4,
+          "wordText": "Pil",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 532,
+          "catId": 4,
+          "wordText": "Heni",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 533,
+          "catId": 4,
+          "wordText": "Çim",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 534,
+          "catId": 4,
+          "wordText": "Buri",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 535,
+          "catId": 4,
+          "wordText": "zimel",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 536,
+          "catId": 4,
+          "wordText": "Gurayıs",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 537,
+          "catId": 4,
+          "wordText": "Wazen",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 538,
+          "catId": 4,
+          "wordText": "Cen ",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 539,
+          "catId": 4,
+          "wordText": "Cena ",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 540,
+          "catId": 4,
+          "wordText": "Ceno",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 541,
+          "catId": 4,
+          "wordText": "Ey Cene",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 542,
+          "catId": 4,
+          "wordText": "Ma Ceme",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 543,
+          "catId": 4,
+          "wordText": "Sıma Cene",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 544,
+          "catId": 4,
+          "wordText": "Pısinge",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 545,
+          "catId": 4,
+          "wordText": "Mırçık-Mırçıke",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 546,
+          "catId": 4,
+          "wordText": "Klancık",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 547,
+          "catId": 4,
+          "wordText": "Kesıke",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 548,
+          "catId": 4,
+          "wordText": "Bıze ",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 549,
+          "catId": 4,
+          "wordText": "Manga",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 550,
+          "catId": 4,
+          "wordText": "Leyir",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 551,
+          "catId": 4,
+          "wordText": "Tayır",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 552,
+          "catId": 4,
+          "wordText": "Bırr ",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 553,
+          "catId": 4,
+          "wordText": "Adır",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 554,
+          "catId": 4,
+          "wordText": "Siliye",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 555,
+          "catId": 4,
+          "wordText": "Vore",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 556,
+          "catId": 4,
+          "wordText": "Bılisık",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 557,
+          "catId": 4,
+          "wordText": "Koto",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 558,
+          "catId": 4,
+          "wordText": "Kam",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 559,
+          "catId": 4,
+          "wordText": "Kama",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 560,
+          "catId": 4,
+          "wordText": "Key",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 561,
+          "catId": 4,
+          "wordText": "Asme",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 562,
+          "catId": 4,
+          "wordText": "Cıl",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 563,
+          "catId": 4,
+          "wordText": "Zenge",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 564,
+          "catId": 4,
+          "wordText": "Torjen",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 565,
+          "catId": 4,
+          "wordText": "Ware",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 566,
+          "catId": 4,
+          "wordText": "Verg",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 567,
+          "catId": 4,
+          "wordText": "Sane",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 568,
+          "catId": 4,
+          "wordText": "Tij",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 569,
+          "catId": 4,
+          "wordText": "Asmen",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 570,
+          "catId": 4,
+          "wordText": "Roz",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 571,
+          "catId": 4,
+          "wordText": "Owres",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 572,
+          "catId": 4,
+          "wordText": "Mere",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 573,
+          "catId": 4,
+          "wordText": "Mor ",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 574,
+          "catId": 4,
+          "wordText": "Lüye",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 575,
+          "catId": 4,
+          "wordText": "Qoçıke",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 576,
+          "catId": 4,
+          "wordText": "Her",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 577,
+          "catId": 4,
+          "wordText": "Gos",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 578,
+          "catId": 4,
+          "wordText": "Xezale",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 579,
+          "catId": 4,
+          "wordText": "Velg",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 580,
+          "catId": 4,
+          "wordText": "So ",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 581,
+          "catId": 4,
+          "wordText": "Be",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 582,
+          "catId": 4,
+          "wordText": "Some",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 583,
+          "catId": 4,
+          "wordText": "Şime",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 584,
+          "catId": 4,
+          "wordText": "Şere",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 585,
+          "catId": 4,
+          "wordText": "Vatane ",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 586,
+          "catId": 4,
+          "wordText": "Mı vake",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 587,
+          "catId": 4,
+          "wordText": "Ey wake",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 588,
+          "catId": 4,
+          "wordText": "Ae wake",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 589,
+          "catId": 4,
+          "wordText": "Yine wake",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 590,
+          "catId": 4,
+          "wordText": "Dım",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 591,
+          "catId": 4,
+          "wordText": "Reqeşiye",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 592,
+          "catId": 4,
+          "wordText": "Kerğe",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 593,
+          "catId": 4,
+          "wordText": "Dik",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 594,
+          "catId": 4,
+          "wordText": "Hak",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 595,
+          "catId": 4,
+          "wordText": "Qut",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 596,
+          "catId": 4,
+          "wordText": "Ga",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 597,
+          "catId": 4,
+          "wordText": "Lew",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 598,
+          "catId": 5,
+          "wordText": "Istanbul çıkaşe düro?",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 599,
+          "catId": 5,
+          "wordText": "Saate çondınede some?",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 600,
+          "catId": 5,
+          "wordText": "Meşte vejime rae",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 601,
+          "catId": 5,
+          "wordText": "Trene sodır saate deşinede bena raşt",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 602,
+          "catId": 5,
+          "wordText": "Otobos sonde neunede yeno",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 603,
+          "catId": 7,
+          "wordText": "Dıseme",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 604,
+          "catId": 7,
+          "wordText": "Şeseme",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 605,
+          "catId": 7,
+          "wordText": "Çarseme",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 606,
+          "catId": 7,
+          "wordText": "Phoseme",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 607,
+          "catId": 7,
+          "wordText": "Yene",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 608,
+          "catId": 7,
+          "wordText": "Seme",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 609,
+          "catId": 7,
+          "wordText": "Bazar",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 610,
+          "catId": 7,
+          "wordText": "Ewro",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 611,
+          "catId": 7,
+          "wordText": "Vijer",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 612,
+          "catId": 7,
+          "wordText": "Meşte",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 613,
+          "catId": 7,
+          "wordText": "Biro",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 614,
+          "catId": 7,
+          "wordText": "Meşte nee biro",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 615,
+          "catId": 7,
+          "wordText": "Binterro",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 616,
+          "catId": 7,
+          "wordText": "Perarey",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 617,
+          "catId": 7,
+          "wordText": "Betırperarey",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 618,
+          "catId": 7,
+          "wordText": "Nıka",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 619,
+          "catId": 7,
+          "wordText": "Sertırena",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 620,
+          "catId": 7,
+          "wordText": "Betırperar",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 621,
+          "catId": 7,
+          "wordText": "Perey",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 622,
+          "catId": 7,
+          "wordText": "Roza dısemiye",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 623,
+          "catId": 7,
+          "wordText": "Roza yeniye",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 624,
+          "catId": 7,
+          "wordText": "Esmo",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 625,
+          "catId": 7,
+          "wordText": "Emser",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 626,
+          "catId": 7,
+          "wordText": "Perar",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 627,
+          "catId": 7,
+          "wordText": "Par",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 628,
+          "catId": 7,
+          "wordText": "Serena",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 629,
+          "catId": 7,
+          "wordText": "Nae ra di ser aver",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 630,
+          "catId": 7,
+          "wordText": "Wusar",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 631,
+          "catId": 7,
+          "wordText": "Amun",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 632,
+          "catId": 7,
+          "wordText": "Payız",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 633,
+          "catId": 7,
+          "wordText": "Zımıston",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 634,
+          "catId": 7,
+          "wordText": "Saate çonda?",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 635,
+          "catId": 7,
+          "wordText": "Saate desdiya.",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 636,
+          "catId": 7,
+          "wordText": "Saate diyinera vişt virena",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 637,
+          "catId": 7,
+          "wordText": "Saate sesinere des esto",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 638,
+          "catId": 7,
+          "wordText": "Saate çoru nema",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 639,
+          "catId": 7,
+          "wordText": "Saate yena çorine",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 640,
+          "catId": 7,
+          "wordText": "Saate jüya",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 641,
+          "catId": 8,
+          "wordText": "Mave xer",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 642,
+          "catId": 8,
+          "wordText": "Xer ve selamet",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 643,
+          "catId": 8,
+          "wordText": "Name to çıko?",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 644,
+          "catId": 8,
+          "wordText": "Çıtura, rında?",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 645,
+          "catId": 8,
+          "wordText": "Ez rındne, tı çıtura?",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 646,
+          "catId": 8,
+          "wordText": "Sıma sekene?",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 647,
+          "catId": 8,
+          "wordText": "Kotra yena?",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 648,
+          "catId": 8,
+          "wordText": "Sona kot?",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 649,
+          "catId": 8,
+          "wordText": "Ez pesew saate jüyinede son çe",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 650,
+          "catId": 8,
+          "wordText": "Ma peroz saate desdiyinede some perociye",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 651,
+          "catId": 8,
+          "wordText": "Saate çondinede yena?",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 652,
+          "catId": 9,
+          "wordText": "Goze",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 653,
+          "catId": 9,
+          "wordText": "Şir",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 654,
+          "catId": 9,
+          "wordText": "wue",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 655,
+          "catId": 9,
+          "wordText": "Nu",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 656,
+          "catId": 9,
+          "wordText": "Nu poze",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 657,
+          "catId": 9,
+          "wordText": "Thorak",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 658,
+          "catId": 9,
+          "wordText": "Do ",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 659,
+          "catId": 9,
+          "wordText": "Most",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 660,
+          "catId": 9,
+          "wordText": "Sıt",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 661,
+          "catId": 9,
+          "wordText": "Sıt bısıme",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 662,
+          "catId": 9,
+          "wordText": "Nu bure",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 663,
+          "catId": 9,
+          "wordText": "Ara",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 664,
+          "catId": 9,
+          "wordText": "Ara ho bıke",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 665,
+          "catId": 9,
+          "wordText": "peroziye",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 666,
+          "catId": 9,
+          "wordText": "Verasaniye",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 667,
+          "catId": 9,
+          "wordText": "sami",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 668,
+          "catId": 9,
+          "wordText": "Sae",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 669,
+          "catId": 9,
+          "wordText": "Muriye",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 670,
+          "catId": 9,
+          "wordText": "Tı wena",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 671,
+          "catId": 9,
+          "wordText": "Wue sımena",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 672,
+          "catId": 9,
+          "wordText": "Khartol",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 673,
+          "catId": 9,
+          "wordText": "Piyaz",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 674,
+          "catId": 9,
+          "wordText": "Hengure",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 675,
+          "catId": 10,
+          "wordText": "Merde merde feke rakerde",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 676,
+          "catId": 10,
+          "wordText": "Çiyede mi esto tora bestno ",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 677,
+          "catId": 10,
+          "wordText": "Çiye mı esto koy peyra sono yeno koy verde giridino",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 678,
+          "catId": 10,
+          "wordText": "Her zıra dım para",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 679,
+          "catId": 10,
+          "wordText": "Xatuna hot cızıku",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 680,
+          "catId": 10,
+          "wordText": "Çiye esto ezke kataşer mı dımıra yeno",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 681,
+          "catId": 10,
+          "wordText": "Çiye mı esto ez son wo vındeno",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 682,
+          "catId": 10,
+          "wordText": "Hire wae mı este her sodır pe pore jumim cene vındene",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 683,
+          "catId": 10,
+          "wordText": "Wuyoke vırazeno roseno, wuyoke ceno negureneno, wuyoke gureneno nevineno",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 684,
+          "catId": 10,
+          "wordText": "Sono reçe çina, yeno toz çino",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 685,
+          "catId": 10,
+          "wordText": "Ma mayime, hirisudı wayime",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 686,
+          "catId": 10,
+          "wordText": "Kutık çınayre loweno",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 687,
+          "catId": 10,
+          "wordText": "Ko çınayra terseno",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 688,
+          "catId": 10,
+          "wordText": "Çiye mı esto, weno neweno nekeno",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 689,
+          "catId": 10,
+          "wordText": "Wu zare çeyidero, çe zare deydero",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 690,
+          "catId": 10,
+          "wordText": "Ciye ho ilaze newesuno",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 691,
+          "catId": 10,
+          "wordText": "Çiyede mı esto giredan mide yeno, kenra vındeno",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 692,
+          "catId": 10,
+          "wordText": "Şine sere kirvite sane cı dina biye roşt",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 693,
+          "catId": 10,
+          "wordText": "Feke deridero, ner verğ veno, ne dızd tıreno",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 694,
+          "catId": 10,
+          "wordText": "Riye ho şao, zare ho şao",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 695,
+          "catId": 10,
+          "wordText": "Qalıke mı naverawo, herz xıre ho boverao",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 696,
+          "catId": 10,
+          "wordText": "Honde fil gırso, gıranenya ho çina",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 697,
+          "catId": 10,
+          "wordText": "Deka mı esta, her roz ho polkena",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 698,
+          "catId": 10,
+          "wordText": "Sandığa mı esta, her roz qeseykena",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 699,
+          "catId": 10,
+          "wordText": "Çor çım, heşt lıng, bıne vorede hardo şa, wuyoke nezoneno hero şa",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 700,
+          "catId": 10,
+          "wordText": "Darera nevındeno, destde vındeno",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 701,
+          "catId": 10,
+          "wordText": "Çiye mı esto, dı lona ho esta",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 702,
+          "catId": 10,
+          "wordText": "Çiye mi esto, her roz düye ho sero kem nebeno",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 703,
+          "catId": 10,
+          "wordText": "Çiye mı esto, eke ho kerd derğ beno je qevaxe, eke ho kerd top beno jo tope",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 704,
+          "catId": 10,
+          "wordText": "Veyvıka mı esta sonde xemelina, sodır texelina",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 705,
+          "catId": 10,
+          "wordText": "Çiye mı esto sodır sono werte çamırra fetelino, sonde yenoke riye ho riye tora pako",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 706,
+          "catId": 10,
+          "wordText": "Sandığamı esta, zare hora vozd vezena",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 707,
+          "catId": 10,
+          "wordText": "Çiye mı esto her ca vineno, vere çime ho nevineno",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 355,
+          "catId": 0,
+          "wordText": "Bizim dilimiz",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 356,
+          "catId": 0,
+          "wordText": "Kalk",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 357,
+          "catId": 0,
+          "wordText": "Yatalım",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 358,
+          "catId": 0,
+          "wordText": "Sen kalkıyorsun",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 359,
+          "catId": 0,
+          "wordText": "Buraya gel",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 360,
+          "catId": 0,
+          "wordText": "Eve git",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 361,
+          "catId": 0,
+          "wordText": "İşten geliyor",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 362,
+          "catId": 0,
+          "wordText": "Kardeşim (erkek)",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 363,
+          "catId": 0,
+          "wordText": "Kız kardeşim",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 364,
+          "catId": 0,
+          "wordText": "Hala kızı",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 365,
+          "catId": 0,
+          "wordText": "Amca oğlu",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 366,
+          "catId": 0,
+          "wordText": "Birbirlerine rastlıyorlar",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 367,
+          "catId": 0,
+          "wordText": "Kaç yaşındasın",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 368,
+          "catId": 0,
+          "wordText": "Kardeşim otuzbeş yaşında",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 369,
+          "catId": 0,
+          "wordText": "Onun ayağı - Kadın",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 370,
+          "catId": 0,
+          "wordText": "Onun ayağı - Erkek",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 371,
+          "catId": 0,
+          "wordText": "Bizim ayağımız",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 372,
+          "catId": 0,
+          "wordText": "Ayağım",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 373,
+          "catId": 0,
+          "wordText": "Ayağın",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 374,
+          "catId": 0,
+          "wordText": "Onların ayağı",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 375,
+          "catId": 0,
+          "wordText": "Evin arkası",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 376,
+          "catId": 0,
+          "wordText": "Hep beraber",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 377,
+          "catId": 1,
+          "wordText": "Benim evim",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 378,
+          "catId": 1,
+          "wordText": "Kar yağıyor",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 379,
+          "catId": 1,
+          "wordText": "Alinin parmağı kırılmış",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 380,
+          "catId": 2,
+          "wordText": "Dipsiz göldür",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 381,
+          "catId": 2,
+          "wordText": "Allah dağa bakar, kar yağdırır",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 382,
+          "catId": 2,
+          "wordText": "Çetin ceviz iğne ile çıkarılır",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 383,
+          "catId": 2,
+          "wordText": "Öküz düşünce üstünde bıçak bol olur",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 384,
+          "catId": 2,
+          "wordText": "İyi öküz çiftte belli olur",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 385,
+          "catId": 2,
+          "wordText": "Evin danası evin öküzünden korkmaz",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 386,
+          "catId": 2,
+          "wordText": "Daha at almadan nalını alıyor",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 387,
+          "catId": 2,
+          "wordText": "Her kuş kendi dilinde öter",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 388,
+          "catId": 2,
+          "wordText": "Bir işi yapana kadar kaplumbağa ağaca çıkar",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 389,
+          "catId": 2,
+          "wordText": "Her ot kökü üzerinde yeşerir",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 390,
+          "catId": 2,
+          "wordText": "İnek öldü, ayran kesildi",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 391,
+          "catId": 2,
+          "wordText": "Beyaz koyun siyah olmaz",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 392,
+          "catId": 2,
+          "wordText": "Yerinde durmayan yılan belasını erken bulur",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 393,
+          "catId": 2,
+          "wordText": "Dünya malı dünyada kalır",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 394,
+          "catId": 2,
+          "wordText": "Yapma görme",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 395,
+          "catId": 2,
+          "wordText": "Yılan deliğini tanır",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 396,
+          "catId": 2,
+          "wordText": "Açgözlü insan kendi değirmeninden de un çalar",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 397,
+          "catId": 2,
+          "wordText": "Kötü adamdan kötü söz çıkar",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 398,
+          "catId": 2,
+          "wordText": "Kimse ayranım ekşi demez",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 399,
+          "catId": 2,
+          "wordText": "Dağ ne kadar yüksek olursa olsun insanın ayağı düşer",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 400,
+          "catId": 2,
+          "wordText": "Tavuk rüyasında yem görmüş",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 401,
+          "catId": 2,
+          "wordText": "Köre düğün ne, sağıra davul ne",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 402,
+          "catId": 2,
+          "wordText": "Sopayla sürüye giden itten hayır gelmez",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 403,
+          "catId": 2,
+          "wordText": "Köpek ne bilir ziyaret nedir",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 404,
+          "catId": 2,
+          "wordText": "Zehirin hatırı olmaz",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 405,
+          "catId": 2,
+          "wordText": "Kötülükle iş olmaz",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 406,
+          "catId": 2,
+          "wordText": "Büyük taş kendi yerindedir",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 407,
+          "catId": 2,
+          "wordText": "Kuzunun iyisi ağılda belli olur",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 408,
+          "catId": 2,
+          "wordText": "Ot taşın altında kalmaz",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 409,
+          "catId": 2,
+          "wordText": "Azar azar oldu, gitti tepeye çıktı",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 410,
+          "catId": 2,
+          "wordText": "Bıyık kedide de var",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 411,
+          "catId": 2,
+          "wordText": "Akıldan akıla fark var, herkesin aklı bir değil",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 412,
+          "catId": 2,
+          "wordText": "Akıl para ile satılmaz",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 413,
+          "catId": 2,
+          "wordText": "Aklı paylaştırmışlar, deli kendi aklını almış",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 414,
+          "catId": 2,
+          "wordText": "Bozuk değirmendir, yiyor yemiyor doymuyor",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 415,
+          "catId": 2,
+          "wordText": "Akıl boyda değil, baştadır",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 416,
+          "catId": 2,
+          "wordText": "Deliyi akıllı ile evlendirmişler, ertes gün gitmiş gelin bu delinizi götürün demiş",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 417,
+          "catId": 2,
+          "wordText": "Deli deliden korkar, akıllı deliden korkar",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 418,
+          "catId": 2,
+          "wordText": "Yüksek uçma, alçak düşersin",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 419,
+          "catId": 2,
+          "wordText": "Küçük kardeş daima büyük olur",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 420,
+          "catId": 2,
+          "wordText": "Komşu komşusunu tanır",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 421,
+          "catId": 2,
+          "wordText": "Delilerin cemaati olmamış",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 422,
+          "catId": 2,
+          "wordText": "Kötü komşu insanı herşeyin sahibi yapar",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 423,
+          "catId": 2,
+          "wordText": "Boku ne kadar karıştırırsan o kadar koku çıkar",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 424,
+          "catId": 3,
+          "wordText": "Bir",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 425,
+          "catId": 3,
+          "wordText": "İki",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 426,
+          "catId": 3,
+          "wordText": "Üç",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 427,
+          "catId": 3,
+          "wordText": "Dört",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 428,
+          "catId": 3,
+          "wordText": "Beş",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 429,
+          "catId": 3,
+          "wordText": "Altı",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 430,
+          "catId": 3,
+          "wordText": "Yedi",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 431,
+          "catId": 3,
+          "wordText": "Sekiz",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 432,
+          "catId": 3,
+          "wordText": "Dokuz",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 433,
+          "catId": 3,
+          "wordText": "On",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 434,
+          "catId": 3,
+          "wordText": "Onbir",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 435,
+          "catId": 3,
+          "wordText": "Oniki",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 436,
+          "catId": 3,
+          "wordText": "Onüç",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 437,
+          "catId": 3,
+          "wordText": "Ondört",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 438,
+          "catId": 3,
+          "wordText": "Onbeş",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 439,
+          "catId": 3,
+          "wordText": "Onaltı",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 440,
+          "catId": 3,
+          "wordText": "Onyedi",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 441,
+          "catId": 3,
+          "wordText": "Onsekiz",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 442,
+          "catId": 3,
+          "wordText": "Ondokuz",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 443,
+          "catId": 3,
+          "wordText": "Yirmi",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 444,
+          "catId": 3,
+          "wordText": "Otuz",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 445,
+          "catId": 3,
+          "wordText": "Kırk",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 446,
+          "catId": 3,
+          "wordText": "Elli",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 447,
+          "catId": 3,
+          "wordText": "Altmış",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 448,
+          "catId": 3,
+          "wordText": "Yetmiş",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 449,
+          "catId": 3,
+          "wordText": "Seksen",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 450,
+          "catId": 3,
+          "wordText": "Doksan",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 451,
+          "catId": 3,
+          "wordText": "Yüz",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 452,
+          "catId": 3,
+          "wordText": "İkiyüz",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 453,
+          "catId": 3,
+          "wordText": "Üçyüz",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 454,
+          "catId": 3,
+          "wordText": "Dörtyüz",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 455,
+          "catId": 3,
+          "wordText": "Beşyüz",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 456,
+          "catId": 3,
+          "wordText": "Altıyüz",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 457,
+          "catId": 3,
+          "wordText": "Yediyüz",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 458,
+          "catId": 3,
+          "wordText": "Sekizyüz",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 459,
+          "catId": 3,
+          "wordText": "Dokuzyüz",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 460,
+          "catId": 3,
+          "wordText": "Bin",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 461,
+          "catId": 3,
+          "wordText": "Binyüz",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 462,
+          "catId": 3,
+          "wordText": "İkibin",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 463,
+          "catId": 3,
+          "wordText": "Üçbin",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 464,
+          "catId": 3,
+          "wordText": "Dörtbin",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 465,
+          "catId": 3,
+          "wordText": "Beşbin",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 466,
+          "catId": 3,
+          "wordText": "Onbin",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 467,
+          "catId": 3,
+          "wordText": "Yirmibin",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 468,
+          "catId": 3,
+          "wordText": "Beşyüzbin",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 469,
+          "catId": 3,
+          "wordText": "Birmilyon",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 470,
+          "catId": 4,
+          "wordText": "Düğün",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 471,
+          "catId": 4,
+          "wordText": "Evlilik",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 472,
+          "catId": 4,
+          "wordText": "O (Dişi için)",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 473,
+          "catId": 4,
+          "wordText": "Araba",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 474,
+          "catId": 4,
+          "wordText": "parmak",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 475,
+          "catId": 4,
+          "wordText": "Sahipsiz",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 476,
+          "catId": 4,
+          "wordText": "Al",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 477,
+          "catId": 4,
+          "wordText": "Erkek Kardeş",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 478,
+          "catId": 4,
+          "wordText": "Ev (Bina, yapı olarak)",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 479,
+          "catId": 4,
+          "wordText": "Adam",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 480,
+          "catId": 4,
+          "wordText": "Ev (yaşanılan yer, aile)",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 481,
+          "catId": 4,
+          "wordText": "Kız Çocuğu",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 482,
+          "catId": 4,
+          "wordText": "Kadın",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 483,
+          "catId": 4,
+          "wordText": "Kapı",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 484,
+          "catId": 4,
+          "wordText": "Ağaç",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 485,
+          "catId": 4,
+          "wordText": "El ",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 486,
+          "catId": 4,
+          "wordText": "Çocuklar",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 487,
+          "catId": 4,
+          "wordText": "Onlar",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 488,
+          "catId": 4,
+          "wordText": "Ben ",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 489,
+          "catId": 4,
+          "wordText": "Ahır",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 490,
+          "catId": 4,
+          "wordText": "Toprak",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 491,
+          "catId": 4,
+          "wordText": "Binler",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 492,
+          "catId": 4,
+          "wordText": "Küçük (parça)",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 493,
+          "catId": 4,
+          "wordText": "Köpek",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 494,
+          "catId": 4,
+          "wordText": "Erkek Çocuk",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 495,
+          "catId": 4,
+          "wordText": "Ayak",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 496,
+          "catId": 4,
+          "wordText": "Dal",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 497,
+          "catId": 4,
+          "wordText": "Şömine",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 498,
+          "catId": 4,
+          "wordText": "Biz",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 499,
+          "catId": 4,
+          "wordText": "Anne",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 500,
+          "catId": 4,
+          "wordText": "Erkek",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 501,
+          "catId": 4,
+          "wordText": "O (Erkek için)",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 502,
+          "catId": 4,
+          "wordText": "Hep",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 503,
+          "catId": 4,
+          "wordText": "Arka",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 504,
+          "catId": 4,
+          "wordText": "Mide",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 505,
+          "catId": 4,
+          "wordText": "Baba",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 506,
+          "catId": 4,
+          "wordText": "Kitap",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 507,
+          "catId": 4,
+          "wordText": "Dede",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 508,
+          "catId": 4,
+          "wordText": "Eski ",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 509,
+          "catId": 4,
+          "wordText": "Yeşil",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 510,
+          "catId": 4,
+          "wordText": "Inanış-Hak Yolu",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 511,
+          "catId": 4,
+          "wordText": "Yol",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 512,
+          "catId": 4,
+          "wordText": "İyi",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 513,
+          "catId": 4,
+          "wordText": "Güzel",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 514,
+          "catId": 4,
+          "wordText": "Güzelim",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 515,
+          "catId": 4,
+          "wordText": "Baş",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 516,
+          "catId": 4,
+          "wordText": "Siz",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 517,
+          "catId": 4,
+          "wordText": "Kırmızı",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 518,
+          "catId": 4,
+          "wordText": "Dışarısı",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 519,
+          "catId": 4,
+          "wordText": "Sen",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 520,
+          "catId": 4,
+          "wordText": "Sahip",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 521,
+          "catId": 4,
+          "wordText": "Çiçek",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 522,
+          "catId": 4,
+          "wordText": "Gelin",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 523,
+          "catId": 4,
+          "wordText": "Kız Kardeş",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 524,
+          "catId": 4,
+          "wordText": "Eş",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 525,
+          "catId": 4,
+          "wordText": "İyi-Tatlı",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 526,
+          "catId": 4,
+          "wordText": "Çok",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 527,
+          "catId": 4,
+          "wordText": "Dil",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 528,
+          "catId": 4,
+          "wordText": "Küçücük",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 529,
+          "catId": 4,
+          "wordText": "Küçük",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 530,
+          "catId": 4,
+          "wordText": "Büyük (Hacim olarak)",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 531,
+          "catId": 4,
+          "wordText": "Büyük (Yaş olarak)",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 532,
+          "catId": 4,
+          "wordText": "Çeşme",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 533,
+          "catId": 4,
+          "wordText": "Göz",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 534,
+          "catId": 4,
+          "wordText": "Kaş",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 535,
+          "catId": 4,
+          "wordText": "Bıyık",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 536,
+          "catId": 4,
+          "wordText": "Çalışmak",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 537,
+          "catId": 4,
+          "wordText": "İstiyorum",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 538,
+          "catId": 4,
+          "wordText": "Alıyorum",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 539,
+          "catId": 4,
+          "wordText": "Alıyor (dişil)",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 540,
+          "catId": 4,
+          "wordText": "Alıyor (eril)",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 541,
+          "catId": 4,
+          "wordText": "Alıyorlar",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 542,
+          "catId": 4,
+          "wordText": "Biz alıyoruz",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 543,
+          "catId": 4,
+          "wordText": "Siz alıyorsunuz",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 544,
+          "catId": 4,
+          "wordText": "Kedi",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 545,
+          "catId": 4,
+          "wordText": "Kuş",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 546,
+          "catId": 4,
+          "wordText": "Karga",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 547,
+          "catId": 4,
+          "wordText": "Kaplumbağa",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 548,
+          "catId": 4,
+          "wordText": "Keçi",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 549,
+          "catId": 4,
+          "wordText": "İnek",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 550,
+          "catId": 4,
+          "wordText": "Yavru",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 551,
+          "catId": 4,
+          "wordText": "Kuşlar",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 552,
+          "catId": 4,
+          "wordText": "Çalılık",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 553,
+          "catId": 4,
+          "wordText": "Ateş",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 554,
+          "catId": 4,
+          "wordText": "Yağmur",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 555,
+          "catId": 4,
+          "wordText": "Kar",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 556,
+          "catId": 4,
+          "wordText": "Şimşek",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 557,
+          "catId": 4,
+          "wordText": "Nerede",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 558,
+          "catId": 4,
+          "wordText": "Kim",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 559,
+          "catId": 4,
+          "wordText": "Kime",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 560,
+          "catId": 4,
+          "wordText": "Ne zaman",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 561,
+          "catId": 4,
+          "wordText": "Ay",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 562,
+          "catId": 4,
+          "wordText": "Yatak",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 563,
+          "catId": 4,
+          "wordText": "Kazma",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 564,
+          "catId": 4,
+          "wordText": "Balta",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 565,
+          "catId": 4,
+          "wordText": "Baraka",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 566,
+          "catId": 4,
+          "wordText": "Kurt",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 567,
+          "catId": 4,
+          "wordText": "Tarak",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 568,
+          "catId": 4,
+          "wordText": "Güneş",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 569,
+          "catId": 4,
+          "wordText": "Gökyüzü",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 570,
+          "catId": 4,
+          "wordText": "Gün ",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 571,
+          "catId": 4,
+          "wordText": "Tavşan",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 572,
+          "catId": 4,
+          "wordText": "Fare",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 573,
+          "catId": 4,
+          "wordText": "Yılan",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 574,
+          "catId": 4,
+          "wordText": "Tilki",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 575,
+          "catId": 4,
+          "wordText": "Kaşık",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 576,
+          "catId": 4,
+          "wordText": "Eşek",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 577,
+          "catId": 4,
+          "wordText": "Kulak",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 578,
+          "catId": 4,
+          "wordText": "Geyik",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 579,
+          "catId": 4,
+          "wordText": "Yaprak",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 580,
+          "catId": 4,
+          "wordText": "Git",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 581,
+          "catId": 4,
+          "wordText": "Gel ",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 582,
+          "catId": 4,
+          "wordText": "Gidiyoruz",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 583,
+          "catId": 4,
+          "wordText": "Gidelim",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 584,
+          "catId": 4,
+          "wordText": "Gitsinler",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 585,
+          "catId": 4,
+          "wordText": "Soylemek",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 586,
+          "catId": 4,
+          "wordText": "Ben soyledim",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 587,
+          "catId": 4,
+          "wordText": "O söyledi  (Erkek)",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 588,
+          "catId": 4,
+          "wordText": "O söyledi  (Kadın)",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 589,
+          "catId": 4,
+          "wordText": "Onlar söyledi",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 590,
+          "catId": 4,
+          "wordText": "Kuyruk",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 591,
+          "catId": 4,
+          "wordText": "Dans",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 592,
+          "catId": 4,
+          "wordText": "Tavuk",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 593,
+          "catId": 4,
+          "wordText": "Horoz",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 594,
+          "catId": 4,
+          "wordText": "Yumurta",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 595,
+          "catId": 4,
+          "wordText": "Yem",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 596,
+          "catId": 4,
+          "wordText": "Öküz",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 597,
+          "catId": 4,
+          "wordText": "Dudak",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 598,
+          "catId": 5,
+          "wordText": "İstanbul ne kadar uzak?",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 599,
+          "catId": 5,
+          "wordText": "Saat kaçta gidiyoruz?",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 600,
+          "catId": 5,
+          "wordText": "Yarın yola çıkıyoruz",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 601,
+          "catId": 5,
+          "wordText": "Tren sabah onda kalkıtyor",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 602,
+          "catId": 5,
+          "wordText": "Otobüs akşam dokuzda geliyor",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 603,
+          "catId": 7,
+          "wordText": "Pazartesi",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 604,
+          "catId": 7,
+          "wordText": "Salı",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 605,
+          "catId": 7,
+          "wordText": "Çarşamba",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 606,
+          "catId": 7,
+          "wordText": "Perşembe",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 607,
+          "catId": 7,
+          "wordText": "Cuma",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 608,
+          "catId": 7,
+          "wordText": "Cumartesi",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 609,
+          "catId": 7,
+          "wordText": "Pazar",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 610,
+          "catId": 7,
+          "wordText": "Bugün",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 611,
+          "catId": 7,
+          "wordText": "Dün",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 612,
+          "catId": 7,
+          "wordText": "Yarın",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 613,
+          "catId": 7,
+          "wordText": "Öbürgün",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 614,
+          "catId": 7,
+          "wordText": "Yarın değil öbür gün",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 615,
+          "catId": 7,
+          "wordText": "Üç gün sonra",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 616,
+          "catId": 7,
+          "wordText": "Üç gün önce",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 617,
+          "catId": 7,
+          "wordText": "Dört gün önce",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 618,
+          "catId": 7,
+          "wordText": "Şimdi",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 619,
+          "catId": 7,
+          "wordText": "İki yıl sonra",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 620,
+          "catId": 7,
+          "wordText": "Üç yıl önce",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 621,
+          "catId": 7,
+          "wordText": "Geçen gün",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 622,
+          "catId": 7,
+          "wordText": "Pazartesi günü",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 623,
+          "catId": 7,
+          "wordText": "Cuma günü",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 624,
+          "catId": 7,
+          "wordText": "Bu akşam",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 625,
+          "catId": 7,
+          "wordText": "Bu yıl",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 626,
+          "catId": 7,
+          "wordText": "Evvelsi yıl",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 627,
+          "catId": 7,
+          "wordText": "Geçen yıl",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 628,
+          "catId": 7,
+          "wordText": "Gelecek yıl",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 629,
+          "catId": 7,
+          "wordText": "Bundan iki yıl önce",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 630,
+          "catId": 7,
+          "wordText": "İlkbahar",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 631,
+          "catId": 7,
+          "wordText": "Yaz",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 632,
+          "catId": 7,
+          "wordText": "Sonbahar",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 633,
+          "catId": 7,
+          "wordText": "Kış",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 634,
+          "catId": 7,
+          "wordText": "Saat kaç?",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 635,
+          "catId": 7,
+          "wordText": "Saat oniki",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 636,
+          "catId": 7,
+          "wordText": "Saat ikiyi yirmi geçiyor",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 637,
+          "catId": 7,
+          "wordText": "Saat altıya on var",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 638,
+          "catId": 7,
+          "wordText": "Saat dört buçuk",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 639,
+          "catId": 7,
+          "wordText": "Saat dörde geliyor",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 640,
+          "catId": 7,
+          "wordText": "Saat bir",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 641,
+          "catId": 8,
+          "wordText": "Merhaba",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 642,
+          "catId": 8,
+          "wordText": "Merhaba (Karşılığında)",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 643,
+          "catId": 8,
+          "wordText": "Adın nedir?",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 644,
+          "catId": 8,
+          "wordText": "Nasılsın, iyi misin?",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 645,
+          "catId": 8,
+          "wordText": "Ben iyiyim, sen nasılsın?",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 646,
+          "catId": 8,
+          "wordText": "Siz ne yapıyorsunuz?",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 647,
+          "catId": 8,
+          "wordText": "Nereden gelliyorsun?",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 648,
+          "catId": 8,
+          "wordText": "Nereye gidiyorsun",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 649,
+          "catId": 8,
+          "wordText": "Ben akşam saat birde eve gidiyorum",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 650,
+          "catId": 8,
+          "wordText": "Biz öğlen onikide öğlen yemeğine gidiyoruz",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 651,
+          "catId": 8,
+          "wordText": "Saat kaçta gelirsin?",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 652,
+          "catId": 9,
+          "wordText": "Ceviz",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 653,
+          "catId": 9,
+          "wordText": "Sarmısak",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 654,
+          "catId": 9,
+          "wordText": "Su",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 655,
+          "catId": 9,
+          "wordText": "Ekmek",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 656,
+          "catId": 9,
+          "wordText": "Ekmek pişir",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 657,
+          "catId": 9,
+          "wordText": "Çökelek",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 658,
+          "catId": 9,
+          "wordText": "Ayran",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 659,
+          "catId": 9,
+          "wordText": "Yoğurt",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 660,
+          "catId": 9,
+          "wordText": "Süt",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 661,
+          "catId": 9,
+          "wordText": "Süt iç",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 662,
+          "catId": 9,
+          "wordText": "Ekmek ye",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 663,
+          "catId": 9,
+          "wordText": "Kahvaltı",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 664,
+          "catId": 9,
+          "wordText": "Kahvaltını yap",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 665,
+          "catId": 9,
+          "wordText": "Ogle yemegi",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 666,
+          "catId": 9,
+          "wordText": "Öğle sonrası yemeği",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 667,
+          "catId": 9,
+          "wordText": "aksam yemegi",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 668,
+          "catId": 9,
+          "wordText": "Elma",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 669,
+          "catId": 9,
+          "wordText": "Armut",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 670,
+          "catId": 9,
+          "wordText": "Sen yiyiyorsun",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 671,
+          "catId": 9,
+          "wordText": "Su içiyor",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 672,
+          "catId": 9,
+          "wordText": "Patates",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 673,
+          "catId": 9,
+          "wordText": "Soğan",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 674,
+          "catId": 9,
+          "wordText": "Üzüm",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 675,
+          "catId": 10,
+          "wordText": "Ağzı açık ölü",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 676,
+          "catId": 10,
+          "wordText": "Sana yapışık bir şeyim var",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 677,
+          "catId": 10,
+          "wordText": "Bir şeym var dağın arkasından gidiyor, geliyor dağın önünde bağlanıyor",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 678,
+          "catId": 10,
+          "wordText": "Eşek anırdı kuyruğu fırladı",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 679,
+          "catId": 10,
+          "wordText": "Yedi memeli hatun",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 680,
+          "catId": 10,
+          "wordText": "Bir şey var ben nereye gitsem arkamdan geliyor",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 681,
+          "catId": 10,
+          "wordText": "Bir şeyim var ben gidiyorum o duruyor",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 682,
+          "catId": 10,
+          "wordText": "Üç kız kardeşim var her sabah birbirinin saçını tutup duruyorlar",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 683,
+          "catId": 10,
+          "wordText": "Yapan satar, alan kullanmaz, kullanan görmez",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 684,
+          "catId": 10,
+          "wordText": "Gider izi yok, gelir tozu yok",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 685,
+          "catId": 10,
+          "wordText": "biz biziz, otuziki kardeşiz",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 686,
+          "catId": 10,
+          "wordText": "Köpek neden havlar",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 687,
+          "catId": 10,
+          "wordText": "Dağ neden korkar",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 688,
+          "catId": 10,
+          "wordText": "Bir şeym var, yiyiyor yemiyor sıçmıyor",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 689,
+          "catId": 10,
+          "wordText": "O evin içinde, ev onun içindedir",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 690,
+          "catId": 10,
+          "wordText": "Boku hastaların ilacıdır",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 691,
+          "catId": 10,
+          "wordText": "Birşeyim var bağlıyorum benle geliyor, açıyorum duruyor",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 692,
+          "catId": 10,
+          "wordText": "Dağın başına gittim, kibriti çaktım, dünya aydınlandı",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 693,
+          "catId": 10,
+          "wordText": "Derenin ağzındadır, ne kurt yiyor, ne hırsız çalıyor",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 694,
+          "catId": 10,
+          "wordText": "Yüzü karadır, içi karadır",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 695,
+          "catId": 10,
+          "wordText": "Dedem bu kıyıdadır, malafatı öbür kıyıdadır",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 696,
+          "catId": 10,
+          "wordText": "Fil kadar büyüktür, ağırlığı yoktur",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 697,
+          "catId": 10,
+          "wordText": "Bir nenem var her gün kendini yamalıyor",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 698,
+          "catId": 10,
+          "wordText": "Bir sandığım var, her gün konuşuyor",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 699,
+          "catId": 10,
+          "wordText": "Dört göz, sekiz ayak, karın altında siyah toprak, bilmeyen kara eşek",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 700,
+          "catId": 10,
+          "wordText": "Ağaçta durmaz, elde durur",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 701,
+          "catId": 10,
+          "wordText": "Birşeyim var , iki deliği var",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 702,
+          "catId": 10,
+          "wordText": "Bir şeyim var, her gün dumanı üstünde eksik olmaz",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 703,
+          "catId": 10,
+          "wordText": "Bir şeyim var uzandığı zaman kavak gibi uzuyor, toplandığı zaman top gibi oluyor",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 704,
+          "catId": 10,
+          "wordText": "Bir gelinim var akşam süsleniyor, sabah vazgeçiyor",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 705,
+          "catId": 10,
+          "wordText": "Bir şeyim var sabah gidiyor çamurun içinde dolaşıyor, akşam geldimi yüzü senin yüzünden temizdir",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 706,
+          "catId": 10,
+          "wordText": "Sandığım var, kendi içinden yağ çıkarıyor",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 2,
+          "groupId": 707,
+          "catId": 10,
+          "wordText": "Bir şeyim var her yeri görüyor, kendi önünü görmüyor",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 355,
+          "catId": 0,
+          "wordText": "Zone ma",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 356,
+          "catId": 0,
+          "wordText": "Ra wurze",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 357,
+          "catId": 0,
+          "wordText": "Ra kotime",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 358,
+          "catId": 0,
+          "wordText": "Tı urzena ra",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 359,
+          "catId": 0,
+          "wordText": "Be tha",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 360,
+          "catId": 0,
+          "wordText": "So çe",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 361,
+          "catId": 0,
+          "wordText": "İsra yeno",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 362,
+          "catId": 0,
+          "wordText": "Bırae mı",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 363,
+          "catId": 0,
+          "wordText": "Waa mı",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 364,
+          "catId": 0,
+          "wordText": "Çena amıke",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 365,
+          "catId": 0,
+          "wordText": "Laze ap",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 366,
+          "catId": 0,
+          "wordText": "Raşte jumın bene",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 367,
+          "catId": 0,
+          "wordText": "Tı çond seridera?",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 368,
+          "catId": 0,
+          "wordText": "Bırae mı hirisphonc serdero",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 369,
+          "catId": 0,
+          "wordText": "Lınga ae",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 370,
+          "catId": 0,
+          "wordText": "Lınga ey",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 371,
+          "catId": 0,
+          "wordText": "Lınga ma",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 372,
+          "catId": 0,
+          "wordText": "Lınga mı",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 373,
+          "catId": 0,
+          "wordText": "Lınga to",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 374,
+          "catId": 0,
+          "wordText": "Lınga yine",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 375,
+          "catId": 0,
+          "wordText": "Pe çey",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 376,
+          "catId": 0,
+          "wordText": "Pero pia",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 377,
+          "catId": 1,
+          "wordText": "Bone mı",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 378,
+          "catId": 1,
+          "wordText": "Vore vorena",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 379,
+          "catId": 1,
+          "wordText": "Beçika Ali sıkiya",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 380,
+          "catId": 2,
+          "wordText": "Gole be bıno",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 381,
+          "catId": 2,
+          "wordText": "Haq kode nadano, wore dano cı",
+          "wordActive": 1,
+          "wordCustom": 1
+        },
+        {
+          "langId": 1,
+          "groupId": 382,
+          "catId": 2,
+          "wordText": "Goza kore eve derjen vejina",
+          "wordActive": 1,
+          "wordCustom": 1
+        }
+      ]
+    }
+  }
+}
