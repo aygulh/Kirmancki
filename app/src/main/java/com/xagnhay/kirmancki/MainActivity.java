@@ -59,6 +59,9 @@ public class MainActivity extends ListActivity {
 		mTracker = application.getDefaultTracker();
 		// [END shared_tracker]
 
+        mTracker.setScreenName(MainActivity.class.getSimpleName());
+        mTracker.send(new HitBuilders.ScreenViewBuilder().build());
+
 		datasource = new MyDataSource(this);
 		datasource.open();
 
@@ -116,6 +119,12 @@ public class MainActivity extends ListActivity {
 		Category category = categories.get(position);
 
 		if (datasource.CountWords(category.getCatId()) > 0) {
+
+            mTracker.send(new HitBuilders.EventBuilder()
+                    .setCategory("Category Selected")
+                    .setAction(category.getCatName())
+                    .build());
+
 			Intent intent = new Intent(this, WordsActivity.class);
 			//intent.putExtra("CatID", category.getCatId());
 			intent.putExtra(".model.Category", category);
@@ -141,35 +150,16 @@ public class MainActivity extends ListActivity {
 		switch (item.getItemId()) {
 
             case R.id.menu_settings:
-
-                mTracker.send(new HitBuilders.EventBuilder()
-                        .setCategory("Action")
-                        .setAction("Settings_Screen")
-                        .build());
-
                 Intent intent1 = new Intent(this, SettingsActivity.class);
                 startActivity(intent1);
                 break;
 
             case R.id.menu_update:
-				// [START custom_event]
-				mTracker.send(new HitBuilders.EventBuilder()
-						.setCategory("Action")
-						.setAction("Update_Screen")
-						.build());
-				// [END custom_event]
-
                 Intent intent2 = new Intent(this, CheckUpdateActivity.class);
                 startActivity(intent2);
                 break;
 
             case R.id.menu_about:
-
-                mTracker.send(new HitBuilders.EventBuilder()
-                        .setCategory("Action")
-                        .setAction("About_Screen")
-                        .build());
-
                 Intent intent3 = new Intent(this, AboutActivity.class);
                 startActivity(intent3);
                 break;
@@ -177,6 +167,12 @@ public class MainActivity extends ListActivity {
             default:
                 break;
         }
+
+		mTracker.send(new HitBuilders.EventBuilder()
+				.setCategory("Menu Actions")
+				.setAction(item.getTitle().toString())
+				.build());
+
 		return super.onOptionsItemSelected(item);
 	}
 

@@ -11,6 +11,8 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
 
+import com.google.android.gms.analytics.HitBuilders;
+import com.google.android.gms.analytics.Tracker;
 import com.xagnhay.kirmancki.db.MyDBOpenHelper;
 import com.xagnhay.kirmancki.db.MyDataSource;
 import com.xagnhay.kirmancki.json.CategoriesJSONParser;
@@ -28,6 +30,7 @@ public class CheckUpdateActivity extends Activity {
 
     //private final String URL_TO_HIT = "http://192.168.13.191:8810/HAlarm.zip/words_json.json";
     private ProgressDialog pDialog;
+    private Tracker mTracker;
 
     public static final String LOGTAG = CheckUpdateActivity.class.getSimpleName();
 
@@ -40,6 +43,12 @@ public class CheckUpdateActivity extends Activity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_update);
+
+        KirmanckiApplication application = (KirmanckiApplication) getApplication();
+        mTracker = application.getDefaultTracker();
+
+        mTracker.setScreenName(CheckUpdateActivity.class.getSimpleName());
+        mTracker.send(new HitBuilders.ScreenViewBuilder().build());
 
         // Showing progress dialog
         pDialog = new ProgressDialog(this);
@@ -56,6 +65,11 @@ public class CheckUpdateActivity extends Activity {
 
             @Override
             public void onClick(View v) {
+
+                mTracker.send(new HitBuilders.EventBuilder()
+                        .setCategory("Update Data")
+                        .setAction("Güncelleme Kontrol")
+                        .build());
 
                 tv1.setText("Sunucundan veriler alınıyor...\n \n");
 

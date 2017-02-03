@@ -9,6 +9,8 @@ import android.os.Bundle;
 import android.preference.PreferenceManager;
 import android.widget.Toast;
 
+import com.google.android.gms.analytics.HitBuilders;
+import com.google.android.gms.analytics.Tracker;
 import com.xagnhay.kirmancki.db.MyDBOpenHelper;
 import com.xagnhay.kirmancki.db.MyDataSource;
 import com.xagnhay.kirmancki.json.CategoriesJSONParser;
@@ -36,6 +38,8 @@ public class WelcomeActivity extends Activity {
     private List<Category> categories;
     MyDataSource datasource;
 
+    private Tracker mTracker;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -46,6 +50,15 @@ public class WelcomeActivity extends Activity {
 
         settings = PreferenceManager.getDefaultSharedPreferences(this);
         Boolean prefValue=settings.getBoolean(ANADIL,true);
+
+        // [START shared_tracker]
+        // Obtain the shared Tracker instance.
+        KirmanckiApplication application = (KirmanckiApplication) getApplication();
+        mTracker = application.getDefaultTracker();
+        // [END shared_tracker]
+
+        mTracker.setScreenName(WelcomeActivity.class.getSimpleName());
+        mTracker.send(new HitBuilders.ScreenViewBuilder().build());
 
         if (prefValue) {
             nativelanguageid = 1;
@@ -141,6 +154,11 @@ public class WelcomeActivity extends Activity {
 
     private void createCategoryData() {
 
+        mTracker.send(new HitBuilders.EventBuilder()
+                .setCategory("Action")
+                .setAction("First time category data creation")
+                .build());
+
         List<Category> categories = getCategoryJSONfromFile(R.raw.categories_json);
         //if (categories.size() != 0) {
         //    for (Category category : categories) {
@@ -151,6 +169,11 @@ public class WelcomeActivity extends Activity {
     }
 
     private void createWordData() {
+
+        mTracker.send(new HitBuilders.EventBuilder()
+                .setCategory("Action")
+                .setAction("First time dictionary data creation")
+                .build());
 
         List<Words> words = getWordsJSONfromFile(R.raw.words_json);
         //if (words.size() != 0) {

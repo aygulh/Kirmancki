@@ -10,7 +10,8 @@
 
     <item android:title="@string/menu_update"
         android:orderInCategory="200"
-        android:id="@+id/menu_update" />
+        android:id="@+id/menu_update"
+        android:enabled="false" />
 
     <item android:title="@string/menu_about"
         android:orderInCategory="300"
