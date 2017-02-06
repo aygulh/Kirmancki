@@ -25,7 +25,7 @@ public class WordsJSONParser {
 
         if (jStr != null) {
             try {
-                Log.e(TAG, "jsonStr : " + jStr);
+                //Log.e(TAG, "jsonStr : " + jStr);
                 JSONObject root = new JSONObject(jStr);
 
                 JSONObject response = root.getJSONObject("response");
@@ -44,7 +44,7 @@ public class WordsJSONParser {
                     wordsList.add(words);
                 }
             } catch (final JSONException e) {
-                Log.e(TAG, "Json parsing error: " + e.getMessage());
+                //Log.e(TAG, "Json parsing error: " + e.getMessage());
             }
         }
 

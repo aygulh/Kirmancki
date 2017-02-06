@@ -11,12 +11,16 @@ import android.widget.ExpandableListView.OnChildClickListener;
 import android.widget.ExpandableListView.OnGroupClickListener;
 import android.widget.ExpandableListView.OnGroupCollapseListener;
 import android.widget.ExpandableListView.OnGroupExpandListener;
+import android.widget.TextView;
 import android.widget.Toast;
 
 import com.xagnhay.kirmancki.db.MyDataSource;
 import com.xagnhay.kirmancki.model.Category;
 
+import org.w3c.dom.Text;
+
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.HashMap;
 import java.util.List;
 
@@ -42,6 +46,8 @@ public class WordsActivity extends Activity {
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_explistview);
+
+		TextView tvCat = (TextView) findViewById(R.id.tvCategory);
 
         settings = PreferenceManager.getDefaultSharedPreferences(this);
         Boolean prefValue=settings.getBoolean(ANADIL,true);
@@ -73,6 +79,8 @@ public class WordsActivity extends Activity {
 		// preparing list data
 
 		prepareListData();
+
+		tvCat.setText(getResources().getText(R.string.lbl_category) + " : "  + category.getCatName());
 
 		listAdapter = new ExpandableListAdapter(this, listDataHeader, listDataChild);
 
@@ -163,7 +171,7 @@ public class WordsActivity extends Activity {
 			listDataChild.put(listDataHeader.get(i), getTranslate(ld, i)); // Header, Child data
 			//Log.i(LOGTAG, listDataHeader.get(i) + " -> " + ld.toString());
 		}
-
+		Collections.sort(listDataHeader);
 	}
 	
 	public List<String> getTranslate(List<String> selection, int position) {

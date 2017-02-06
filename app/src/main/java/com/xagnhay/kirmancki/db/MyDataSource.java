@@ -42,12 +42,12 @@ public class MyDataSource {
 	}
 	
 	public void open() {
-		Log.i(LOGTAG, "Database opened");
+		//Log.i(LOGTAG, "Database opened");
 		database = dbhelper.getWritableDatabase();
 	}
 
 	public void close() {
-		Log.i(LOGTAG, "Database closed");		
+		//Log.i(LOGTAG, "Database closed");
 		dbhelper.close();
 	}
 	
@@ -151,7 +151,7 @@ public class MyDataSource {
 		Cursor cursor = database.query(MyDBOpenHelper.TABLE_CATEGORY, allColumns, 
 				selection, null, null, null, null);
 				
-		Log.i(LOGTAG, "Returned categories: " + cursor.getCount() + " rows");
+		//Log.i(LOGTAG, "Returned categories: " + cursor.getCount() + " rows");
 		List<Category> categories = cursorToList(cursor);
 		return categories;
 	}
@@ -162,7 +162,7 @@ public class MyDataSource {
 		Cursor cursor = database.query(MyDBOpenHelper.TABLE_CATEGORY, allColumns, 
 				selection, null, null, null, orderBy);
 				
-		Log.i(LOGTAG, "Returned " + cursor.getCount() + " rows");
+		//Log.i(LOGTAG, "Returned " + cursor.getCount() + " rows");
 		List<Category> categories = cursorToList(cursor);
 		return categories;
 	}

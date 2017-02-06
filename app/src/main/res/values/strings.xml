@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">Kırmancki Öğren</string>
+    <string name="app_name">Pratik Kırmancki Öğrenme Klavuzu</string>
     <string name="url_for_words">http://192.168.13.191:8810/HAlarm.zip/words_json.json</string>
     <string name="url_for_categoryies">http://192.168.13.191:8810/HAlarm.zip/categories_json.json</string>
     <string name="settings_app_name">Ayarlar</string>
     <string name="menu_settings">Ayarlar</string>
     <string name="menu_update">Güncelleme Kontrol</string>
     <string name="menu_about">Hakkında</string>
+    <string name="lbl_category">Kategoriler</string>
     <string name="msg_wait">İlk kullanım için veritabanı oluşturuluyor. Lütfen bekleyin .....</string>
     <string name="msg_count">Toplam yüklenen veri sayısı:</string>
     <string name="msg_ctgry">Bu Kategoriye ait detay bulunamadı ....</string>
@@ -25,4 +26,8 @@
     <string name="msg_alertmessage">Çıkmak istediğinizden eminmisiniz? Veritabanı hazırlama işlemi henüz bitmedi. Program düzgün çalışmayabilir.</string>
     <string name="msg_alertyes">Evet</string>
     <string name="msg_alertno">Hayır</string>
+    <string name="msg_serverstart">Sunucundan veriler alınıyor... \n \n </string>
+    <string name="msg_serverend">Güncelleme tamamlandı ...</string>
+    <string name="msg_words">Rehber verisi alınıyor ... \n \n </string>
+    <string name="msg_category">Kategoriler alınıyor ...\n </string>
 </resources>

@@ -102,14 +102,14 @@ public class MyDBOpenHelper extends SQLiteOpenHelper {
 
 	@Override
 	public void onCreate(SQLiteDatabase db) {		
-		Log.i(LOGTAG, TABLE_CREATE_CATEGORY);
+		//Log.i(LOGTAG, TABLE_CREATE_CATEGORY);
 		db.execSQL(TABLE_CREATE_CATEGORY);
 		//db.execSQL(CREATE_INDEX_CATEGORY_IDLANG);		
 		db.execSQL(TABLE_CREATE_WORDS);
 		db.execSQL(TABLE_CREATE_LANGS);
 		db.execSQL(TABLE_CREATE_FAVORITES);
 		db.execSQL(TABLE_CREATE_TYPES);
-		Log.i(LOGTAG, "Tables has been created");
+		//Log.i(LOGTAG, "Tables has been created");
 	}
 
 	@Override
@@ -120,8 +120,7 @@ public class MyDBOpenHelper extends SQLiteOpenHelper {
 		db.execSQL("DROP TABLE IF EXISTS " + TABLE_CREATE_FAVORITES);
 		db.execSQL("DROP TABLE IF EXISTS " + TABLE_TYPES);
 		onCreate(db);
-		Log.i(LOGTAG, "Database has been upgraded from " + 
-				oldVersion + " to " + newVersion);
+		//Log.i(LOGTAG, "Database has been upgraded from " + oldVersion + " to " + newVersion);
 	}
 
 }

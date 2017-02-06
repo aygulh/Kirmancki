@@ -71,14 +71,15 @@ public class CheckUpdateActivity extends Activity {
                         .setAction("Güncelleme Kontrol")
                         .build());
 
-                tv1.setText("Sunucundan veriler alınıyor...\n \n");
+                tv1.setText(getResources().getText(R.string.msg_serverstart));
 
                 GetWordsFromUrl myTask = new GetWordsFromUrl();
                 myTask.execute(getResources().getString(R.string.url_words));
 
                 GetCategoryFromUrl myCatTask = new GetCategoryFromUrl();
                 myCatTask.execute(getResources().getString(R.string.url_category));
-                tv1.append("Güncelleme tamamlandı ...");
+
+                tv1.append(getResources().getText(R.string.msg_serverend));
             }
         });
     }
@@ -92,7 +93,7 @@ public class CheckUpdateActivity extends Activity {
         protected void onPreExecute() {
             //super.onPreExecute();
             pDialog.show();
-            tv1.append("Kelimeler alınıyor ...\n");
+            tv1.append(getResources().getText(R.string.msg_words));
         }
 
         @Override
@@ -119,7 +120,7 @@ public class CheckUpdateActivity extends Activity {
         protected void onPostExecute(final String result) {
             //super.onPostExecute(result);
 
-            tv1.append("\n" + "Kelime veritabanı güncellendi.. \n");
+            //tv1.append("\n" + "Rehber veritabanı güncellendi.. \n");
         }
     }
 
@@ -131,7 +132,7 @@ public class CheckUpdateActivity extends Activity {
         @Override
         protected void onPreExecute() {
             //super.onPreExecute();
-            tv1.append("Kategoriler alınıyor ...\n");
+            tv1.append(getResources().getText(R.string.msg_category));
         }
 
         @Override
@@ -157,7 +158,7 @@ public class CheckUpdateActivity extends Activity {
         @Override
         protected void onPostExecute(final String result) {
             //super.onPostExecute(result);
-            tv1.append("\n" + "Kategori güncelleme tamamlandı...\n");
+            //tv1.append("\n" + "Kategori güncelleme tamamlandı...\n");
 
             if (pDialog.isShowing())
                 pDialog.dismiss();

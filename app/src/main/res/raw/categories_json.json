@@ -3,118 +3,101 @@
     "Language": {
       "Categories": [
         {
-          "catId": 10,
-          "catName": "Bilmeceler",
-          "catDesc": "Bilmeceler",
-          "catLangId": 1
-        },
-        {
-          "catId": 10,
-          "catName": "Bilmeceler",
-          "catDesc": "Bilmeceler",
-          "catLangId": 2
-        },
-        {
-          "catId": 3,
-          "catName": "Ju-Di-Hire",
-          "catDesc": "",
-          "catLangId": 1
-        },
-        {
-          "catId": 4,
-          "catName": "Qesu",
-          "catDesc": "",
-          "catLangId": 1
-        },
-        {
-          "catId": 7,
-          "catName": "Waxt",
-          "catDesc": "",
-          "catLangId": 1
-        },
-        {
-          "catId": 8,
-          "catName": "Werte Juminde - Qese",
-          "catDesc": "",
-          "catLangId": 1
-        },
-        {
-          "catId": 9,
-          "catName": "Werden",
-          "catDesc": "",
-          "catLangId": 1
-        },
-        {
-          "catId": 0,
-          "catName": "Varsayılan",
-          "catDesc": "",
-          "catLangId": 2
-        },
-        {
-          "catId": 0,
-          "catName": "Iyebin",
-          "catDesc": "",
-          "catLangId": 1
-        },
-        {
-          "catId": 5,
-          "catName": "Seyahat",
-          "catDesc": "",
-          "catLangId": 2
-        },
-        {
           "catId": 1,
           "catName": "Genel",
           "catDesc": "",
-          "catLangId": 2
-        },
-        {
-          "catId": 2,
-          "catName": "Atasözleri",
-          "catDesc": "",
-          "catLangId": 2
-        },
-        {
+          "catLangId": 2,
+          "isExported": true
+        }, {
           "catId": 3,
           "catName": "Sayılar",
           "catDesc": "",
-          "catLangId": 2
-        },
-        {
-          "catId": 4,
-          "catName": "Kelimeler",
-          "catDesc": "",
-          "catLangId": 2
-        },
-        {
+          "catLangId": 2,
+          "isExported": true
+        }, {
           "catId": 7,
           "catName": "Zaman",
           "catDesc": "",
-          "catLangId": 2
-        },
-        {
+          "catLangId": 2,
+          "isExported": true
+        }, {
+          "catId": 9,
+          "catName": "Yeme-İçme",
+          "catDesc": "",
+          "catLangId": 2,
+          "isExported": true
+        }, {
+          "catId": 4,
+          "catName": "Kelimeler",
+          "catDesc": "",
+          "catLangId": 2,
+          "isExported": true
+        }, {
           "catId": 8,
           "catName": "Iletişim",
           "catDesc": "",
-          "catLangId": 2
-        },
-        {
-          "catId": 9,
-          "catName": "Yemek",
+          "catLangId": 2,
+          "isExported": true
+        }, {
+          "catId": 2,
+          "catName": "Atasözleri",
           "catDesc": "",
-          "catLangId": 2
-        },
-        {
+          "catLangId": 2,
+          "isExported": true
+        }, {
+          "catId": 10,
+          "catName": "Bilmeceler",
+          "catDesc": "Bilmeceler",
+          "catLangId": 2,
+          "isExported": true
+        }, {
           "catId": 1,
           "catName": "Herçi",
           "catDesc": "",
-          "catLangId": 1
-        },
-        {
-          "catId": 2,
-          "catName": "Qese Pilu",
+          "catLangId": 1,
+          "isExported": true
+        }, {
+          "catId": 3,
+          "catName": "Rakamu-Ju-Di-Hire",
           "catDesc": "",
-          "catLangId": 1
+          "catLangId": 1,
+          "isExported": true
+        }, {
+          "catId": 7,
+          "catName": "Waxt",
+          "catDesc": "",
+          "catLangId": 1,
+          "isExported": true
+        }, {
+          "catId": 9,
+          "catName": "Werden-Simiten",
+          "catDesc": "",
+          "catLangId": 1,
+          "isExported": true
+        }, {
+          "catId": 4,
+          "catName": "Qesu",
+          "catDesc": "",
+          "catLangId": 1,
+          "isExported": true
+        }, {
+          "catId": 8,
+          "catName": "Werte Juminde - Qese",
+          "catDesc": "",
+          "catLangId": 1,
+          "isExported": true
+        }, {
+          "catId": 2,
+          "catName": "Qese Virenu",
+          "catDesc": "",
+          "catLangId": 1,
+          "isExported": true
+        }, {
+          "catId": 10,
+          "catName": "Bilmeceler",
+          "catDesc": "Bilmeceler",
+          "catLangId": 1,
+          "isExported": true
         }
       ]
     }

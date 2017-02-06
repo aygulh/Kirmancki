@@ -45,7 +45,7 @@ public class CategoriesJSONParser {
                 //return categoryList;
 
             } catch (final JSONException e) {
-                Log.e(TAG, "Json parsing error: " + e.getMessage());
+                //Log.e(TAG, "Json parsing error: " + e.getMessage());
             }
         }
 
