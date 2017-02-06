@@ -205,37 +205,45 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         public static final int google_crash_reporting_api_key=0x7f060017;
         public static final int lbl_category=0x7f060018;
         public static final int menu_about=0x7f060019;
-        public static final int menu_settings=0x7f06001a;
-        public static final int menu_update=0x7f06001b;
-        public static final int msg_alertmessage=0x7f06001c;
-        public static final int msg_alertno=0x7f06001d;
-        public static final int msg_alerttitle=0x7f06001e;
-        public static final int msg_alertyes=0x7f06001f;
-        public static final int msg_category=0x7f060020;
-        public static final int msg_count=0x7f060021;
-        public static final int msg_ctgry=0x7f060022;
-        public static final int msg_dil1=0x7f060023;
-        public static final int msg_dil2=0x7f060024;
-        public static final int msg_email=0x7f060025;
-        public static final int msg_firstsetup=0x7f060026;
-        public static final int msg_help=0x7f060027;
-        public static final int msg_helptext=0x7f060028;
-        public static final int msg_serverend=0x7f060029;
-        public static final int msg_serverstart=0x7f06002a;
-        public static final int msg_wait=0x7f06002b;
-        public static final int msg_words=0x7f06002c;
-        public static final int msg_yazan=0x7f06002d;
-        public static final int settings_app_name=0x7f06002e;
-        public static final int url_category=0x7f06002f;
-        public static final int url_for_categoryies=0x7f060030;
-        public static final int url_for_words=0x7f060031;
-        public static final int url_words=0x7f060032;
+        public static final int menu_search=0x7f06001a;
+        public static final int menu_settings=0x7f06001b;
+        public static final int menu_update=0x7f06001c;
+        public static final int msg_alertmessage=0x7f06001d;
+        public static final int msg_alertno=0x7f06001e;
+        public static final int msg_alerttitle=0x7f06001f;
+        public static final int msg_alertyes=0x7f060020;
+        public static final int msg_category=0x7f060021;
+        public static final int msg_count=0x7f060022;
+        public static final int msg_ctgry=0x7f060023;
+        public static final int msg_dil1=0x7f060024;
+        public static final int msg_dil2=0x7f060025;
+        public static final int msg_email=0x7f060026;
+        public static final int msg_firstsetup=0x7f060027;
+        public static final int msg_help=0x7f060028;
+        public static final int msg_helptext=0x7f060029;
+        public static final int msg_serverend=0x7f06002a;
+        public static final int msg_serverstart=0x7f06002b;
+        public static final int msg_wait=0x7f06002c;
+        public static final int msg_words=0x7f06002d;
+        public static final int msg_yazan=0x7f06002e;
+        public static final int settings_app_name=0x7f06002f;
+        public static final int url_category=0x7f060030;
+        public static final int url_for_categoryies=0x7f060031;
+        public static final int url_for_words=0x7f060032;
+        public static final int url_words=0x7f060033;
     }
     public static final class style {
         /**  API 11 theme customizations can go here. 
  API 14 theme customizations can go here. 
+
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        
          */
         public static final int AppBaseTheme=0x7f070000;
+        /**  All customizations that are NOT specific to a particular API-level can go here. 
+         */
         public static final int AppTheme=0x7f070001;
     }
     public static final class xml {

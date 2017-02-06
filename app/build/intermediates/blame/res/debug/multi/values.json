@@ -11,7 +11,14 @@
                     "endOffset": 190
                 },
                 "from": {
-                    "file": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\values\\values.xml"
+                    "file": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 215,
+                        "endColumn": 85,
+                        "endOffset": 300
+                    }
                 }
             },
             {
@@ -23,7 +30,14 @@
                     "endOffset": 270
                 },
                 "from": {
-                    "file": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\values\\values.xml"
+                    "file": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 0,
+                        "startOffset": 301,
+                        "endColumn": 75,
+                        "endOffset": 376
+                    }
                 }
             },
             {
@@ -35,7 +49,14 @@
                     "endOffset": 360
                 },
                 "from": {
-                    "file": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\values\\values.xml"
+                    "file": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 0,
+                        "startOffset": 377,
+                        "endColumn": 85,
+                        "endOffset": 462
+                    }
                 }
             },
             {
@@ -47,7 +68,14 @@
                     "endOffset": 450
                 },
                 "from": {
-                    "file": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\values\\values.xml"
+                    "file": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 0,
+                        "startOffset": 463,
+                        "endColumn": 85,
+                        "endOffset": 548
+                    }
                 }
             },
             {
@@ -59,7 +87,14 @@
                     "endOffset": 530
                 },
                 "from": {
-                    "file": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\values\\values.xml"
+                    "file": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 0,
+                        "startOffset": 549,
+                        "endColumn": 75,
+                        "endOffset": 624
+                    }
                 }
             },
             {
@@ -71,7 +106,14 @@
                     "endOffset": 611
                 },
                 "from": {
-                    "file": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\values\\values.xml"
+                    "file": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 0,
+                        "startOffset": 625,
+                        "endColumn": 76,
+                        "endOffset": 701
+                    }
                 }
             },
             {
@@ -83,7 +125,14 @@
                     "endOffset": 691
                 },
                 "from": {
-                    "file": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\values\\values.xml"
+                    "file": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 0,
+                        "startOffset": 702,
+                        "endColumn": 75,
+                        "endOffset": 777
+                    }
                 }
             },
             {
@@ -95,7 +144,14 @@
                     "endOffset": 771
                 },
                 "from": {
-                    "file": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\values\\values.xml"
+                    "file": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 0,
+                        "startOffset": 778,
+                        "endColumn": 75,
+                        "endOffset": 853
+                    }
                 }
             },
             {
@@ -107,7 +163,14 @@
                     "endOffset": 1552
                 },
                 "from": {
-                    "file": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\src\\main\\res\\values\\dimens.xml"
+                    "file": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
                 }
             },
             {
@@ -119,7 +182,14 @@
                     "endOffset": 1608
                 },
                 "from": {
-                    "file": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\src\\main\\res\\values\\dimens.xml"
+                    "file": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
                 }
             },
             {
@@ -131,7 +201,14 @@
                     "endOffset": 1651
                 },
                 "from": {
-                    "file": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\src\\main\\res\\values\\dimens.xml"
+                    "file": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 1,
+                        "startOffset": 205,
+                        "endColumn": 39,
+                        "endOffset": 243
+                    }
                 }
             },
             {
@@ -143,7 +220,14 @@
                     "endOffset": 1719
                 },
                 "from": {
-                    "file": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\10.0.1\\res\\values\\values.xml"
+                    "file": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\10.0.1\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 276,
+                        "endColumn": 63,
+                        "endOffset": 339
+                    }
                 }
             },
             {
@@ -155,7 +239,14 @@
                     "endOffset": 1789
                 },
                 "from": {
-                    "file": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 69,
+                        "endOffset": 121
+                    }
                 }
             },
             {
@@ -167,7 +258,14 @@
                     "endOffset": 1833
                 },
                 "from": {
-                    "file": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 2039,
+                        "endColumn": 43,
+                        "endOffset": 2078
+                    }
                 }
             },
             {
@@ -179,7 +277,14 @@
                     "endOffset": 1938
                 },
                 "from": {
-                    "file": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\values\\values.xml"
+                    "file": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 0,
+                        "startOffset": 951,
+                        "endColumn": 100,
+                        "endOffset": 1051
+                    }
                 }
             },
             {
@@ -191,7 +296,14 @@
                     "endOffset": 2119
                 },
                 "from": {
-                    "file": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\values\\values.xml"
+                    "file": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 0,
+                        "startOffset": 1052,
+                        "endColumn": 180,
+                        "endOffset": 1232
+                    }
                 }
             },
             {
@@ -203,7 +315,14 @@
                     "endOffset": 2244
                 },
                 "from": {
-                    "file": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\values\\values.xml"
+                    "file": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 0,
+                        "startOffset": 1233,
+                        "endColumn": 120,
+                        "endOffset": 1353
+                    }
                 }
             },
             {
@@ -215,7 +334,14 @@
                     "endOffset": 2351
                 },
                 "from": {
-                    "file": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\values\\values.xml"
+                    "file": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 0,
+                        "startOffset": 1354,
+                        "endColumn": 102,
+                        "endOffset": 1456
+                    }
                 }
             },
             {
@@ -227,7 +353,14 @@
                     "endOffset": 2531
                 },
                 "from": {
-                    "file": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\values\\values.xml"
+                    "file": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 0,
+                        "startOffset": 1457,
+                        "endColumn": 179,
+                        "endOffset": 1636
+                    }
                 }
             },
             {
@@ -239,7 +372,14 @@
                     "endOffset": 2654
                 },
                 "from": {
-                    "file": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\values\\values.xml"
+                    "file": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 0,
+                        "startOffset": 1637,
+                        "endColumn": 118,
+                        "endOffset": 1755
+                    }
                 }
             },
             {
@@ -251,7 +391,14 @@
                     "endOffset": 2757
                 },
                 "from": {
-                    "file": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\values\\values.xml"
+                    "file": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 0,
+                        "startOffset": 1756,
+                        "endColumn": 98,
+                        "endOffset": 1854
+                    }
                 }
             },
             {
@@ -263,7 +410,14 @@
                     "endOffset": 2924
                 },
                 "from": {
-                    "file": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\10.0.1\\res\\values\\values.xml"
+                    "file": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\10.0.1\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 0,
+                        "startOffset": 439,
+                        "endColumn": 166,
+                        "endOffset": 605
+                    }
                 }
             },
             {
@@ -275,7 +429,14 @@
                     "endOffset": 3112
                 },
                 "from": {
-                    "file": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\values\\values.xml"
+                    "file": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 0,
+                        "startOffset": 1855,
+                        "endColumn": 187,
+                        "endOffset": 2042
+                    }
                 }
             },
             {
@@ -287,7 +448,14 @@
                     "endOffset": 3217
                 },
                 "from": {
-                    "file": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\values\\values.xml"
+                    "file": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 0,
+                        "startOffset": 2043,
+                        "endColumn": 100,
+                        "endOffset": 2143
+                    }
                 }
             },
             {
@@ -299,7 +467,14 @@
                     "endOffset": 3398
                 },
                 "from": {
-                    "file": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\values\\values.xml"
+                    "file": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 0,
+                        "startOffset": 2144,
+                        "endColumn": 180,
+                        "endOffset": 2324
+                    }
                 }
             },
             {
@@ -311,7 +486,14 @@
                     "endOffset": 3523
                 },
                 "from": {
-                    "file": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\values\\values.xml"
+                    "file": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 0,
+                        "startOffset": 2325,
+                        "endColumn": 120,
+                        "endOffset": 2445
+                    }
                 }
             },
             {
@@ -323,7 +505,14 @@
                     "endOffset": 3698
                 },
                 "from": {
-                    "file": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\values\\values.xml"
+                    "file": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 0,
+                        "startOffset": 2446,
+                        "endColumn": 174,
+                        "endOffset": 2620
+                    }
                 }
             },
             {
@@ -335,7 +524,14 @@
                     "endOffset": 3846
                 },
                 "from": {
-                    "file": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\values\\values.xml"
+                    "file": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 0,
+                        "startOffset": 2621,
+                        "endColumn": 143,
+                        "endOffset": 2764
+                    }
                 }
             },
             {
@@ -347,7 +543,14 @@
                     "endOffset": 3909
                 },
                 "from": {
-                    "file": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\values\\values.xml"
+                    "file": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 0,
+                        "startOffset": 2765,
+                        "endColumn": 58,
+                        "endOffset": 2823
+                    }
                 }
             },
             {
@@ -359,7 +562,14 @@
                     "endOffset": 3971
                 },
                 "from": {
-                    "file": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\values\\values.xml"
+                    "file": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 0,
+                        "startOffset": 2824,
+                        "endColumn": 57,
+                        "endOffset": 2881
+                    }
                 }
             },
             {
@@ -371,7 +581,14 @@
                     "endOffset": 4050
                 },
                 "from": {
-                    "file": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\values\\values.xml"
+                    "file": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 0,
+                        "startOffset": 2882,
+                        "endColumn": 74,
+                        "endOffset": 2956
+                    }
                 }
             },
             {
@@ -383,7 +600,14 @@
                     "endOffset": 4127
                 },
                 "from": {
-                    "file": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\build\\generated\\res\\google-services\\debug\\values\\values.xml"
+                    "file": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\build\\generated\\res\\google-services\\debug\\values\\values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 76,
+                        "endOffset": 127
+                    }
                 }
             },
             {
@@ -395,7 +619,14 @@
                     "endOffset": 4209
                 },
                 "from": {
-                    "file": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\build\\generated\\res\\google-services\\debug\\values\\values.xml"
+                    "file": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\build\\generated\\res\\google-services\\debug\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 132,
+                        "endColumn": 81,
+                        "endOffset": 209
+                    }
                 }
             },
             {
@@ -407,7 +638,14 @@
                     "endOffset": 4313
                 },
                 "from": {
-                    "file": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\build\\generated\\res\\google-services\\debug\\values\\values.xml"
+                    "file": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\build\\generated\\res\\google-services\\debug\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 214,
+                        "endColumn": 103,
+                        "endOffset": 313
+                    }
                 }
             },
             {
@@ -419,7 +657,14 @@
                     "endOffset": 4416
                 },
                 "from": {
-                    "file": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\build\\generated\\res\\google-services\\debug\\values\\values.xml"
+                    "file": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\build\\generated\\res\\google-services\\debug\\values\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 318,
+                        "endColumn": 102,
+                        "endOffset": 416
+                    }
                 }
             },
             {
@@ -431,7 +676,14 @@
                     "endOffset": 4536
                 },
                 "from": {
-                    "file": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\build\\generated\\res\\google-services\\debug\\values\\values.xml"
+                    "file": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\build\\generated\\res\\google-services\\debug\\values\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 421,
+                        "endColumn": 119,
+                        "endOffset": 536
+                    }
                 }
             },
             {
@@ -443,7 +695,14 @@
                     "endOffset": 4589
                 },
                 "from": {
-                    "file": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 540,
+                        "endColumn": 52,
+                        "endOffset": 588
+                    }
                 }
             },
             {
@@ -455,7 +714,14 @@
                     "endOffset": 4637
                 },
                 "from": {
-                    "file": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 492,
+                        "endColumn": 47,
+                        "endOffset": 535
+                    }
                 }
             },
             {
@@ -463,80 +729,141 @@
                     "startLine": 63,
                     "startColumn": 4,
                     "startOffset": 4642,
-                    "endColumn": 49,
-                    "endOffset": 4687
+                    "endColumn": 43,
+                    "endOffset": 4681
                 },
                 "from": {
-                    "file": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 2686,
+                        "endColumn": 43,
+                        "endOffset": 2725
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 64,
                     "startColumn": 4,
-                    "startOffset": 4692,
-                    "endColumn": 58,
-                    "endOffset": 4746
+                    "startOffset": 4686,
+                    "endColumn": 49,
+                    "endOffset": 4731
                 },
                 "from": {
-                    "file": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 383,
+                        "endColumn": 49,
+                        "endOffset": 428
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 65,
                     "startColumn": 4,
-                    "startOffset": 4751,
-                    "endColumn": 153,
-                    "endOffset": 4900
+                    "startOffset": 4736,
+                    "endColumn": 58,
+                    "endOffset": 4790
                 },
                 "from": {
-                    "file": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 433,
+                        "endColumn": 58,
+                        "endOffset": 487
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 66,
                     "startColumn": 4,
-                    "startOffset": 4905,
-                    "endColumn": 45,
-                    "endOffset": 4946
+                    "startOffset": 4795,
+                    "endColumn": 153,
+                    "endOffset": 4944
                 },
                 "from": {
-                    "file": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 2149,
+                        "endColumn": 153,
+                        "endOffset": 2298
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 67,
                     "startColumn": 4,
-                    "startOffset": 4951,
-                    "endColumn": 65,
-                    "endOffset": 5012
+                    "startOffset": 4949,
+                    "endColumn": 45,
+                    "endOffset": 4990
                 },
                 "from": {
-                    "file": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 2349,
+                        "endColumn": 45,
+                        "endOffset": 2390
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 68,
                     "startColumn": 4,
-                    "startOffset": 5017,
-                    "endColumn": 45,
-                    "endOffset": 5058
+                    "startOffset": 4995,
+                    "endColumn": 65,
+                    "endOffset": 5056
                 },
                 "from": {
-                    "file": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 2083,
+                        "endColumn": 65,
+                        "endOffset": 2144
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 69,
                     "startColumn": 4,
-                    "startOffset": 5063,
+                    "startOffset": 5061,
+                    "endColumn": 45,
+                    "endOffset": 5102
+                },
+                "from": {
+                    "file": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 2303,
+                        "endColumn": 45,
+                        "endOffset": 2344
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 5107,
                     "endColumn": 68,
-                    "endOffset": 5127
+                    "endOffset": 5171
                 },
                 "from": {
                     "file": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\src\\main\\res\\values\\strings.xml",
@@ -551,86 +878,116 @@
             },
             {
                 "to": {
-                    "startLine": 70,
-                    "startColumn": 4,
-                    "startOffset": 5132,
-                    "endColumn": 66,
-                    "endOffset": 5194
-                },
-                "from": {
-                    "file": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\src\\main\\res\\values\\strings.xml"
-                }
-            },
-            {
-                "to": {
                     "startLine": 71,
                     "startColumn": 4,
-                    "startOffset": 5199,
-                    "endColumn": 77,
-                    "endOffset": 5272
+                    "startOffset": 5176,
+                    "endColumn": 66,
+                    "endOffset": 5238
                 },
                 "from": {
-                    "file": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 696,
+                        "endColumn": 66,
+                        "endOffset": 758
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 72,
                     "startColumn": 4,
-                    "startOffset": 5277,
-                    "endColumn": 78,
-                    "endOffset": 5351
+                    "startOffset": 5243,
+                    "endColumn": 77,
+                    "endOffset": 5316
                 },
                 "from": {
-                    "file": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 763,
+                        "endColumn": 77,
+                        "endOffset": 836
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 73,
                     "startColumn": 4,
-                    "startOffset": 5356,
+                    "startOffset": 5321,
                     "endColumn": 78,
-                    "endOffset": 5430
+                    "endOffset": 5395
                 },
                 "from": {
-                    "file": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1140,
+                        "endColumn": 78,
+                        "endOffset": 1214
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 74,
                     "startColumn": 4,
-                    "startOffset": 5435,
-                    "endColumn": 61,
-                    "endOffset": 5492
+                    "startOffset": 5400,
+                    "endColumn": 78,
+                    "endOffset": 5474
                 },
                 "from": {
-                    "file": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1219,
+                        "endColumn": 78,
+                        "endOffset": 1293
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 75,
                     "startColumn": 4,
-                    "startOffset": 5497,
-                    "endColumn": 298,
-                    "endOffset": 5791
+                    "startOffset": 5479,
+                    "endColumn": 61,
+                    "endOffset": 5536
                 },
                 "from": {
-                    "file": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1547,
+                        "endColumn": 61,
+                        "endOffset": 1604
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 76,
                     "startColumn": 4,
-                    "startOffset": 5796,
-                    "endColumn": 43,
+                    "startOffset": 5541,
+                    "endColumn": 298,
                     "endOffset": 5835
                 },
                 "from": {
-                    "file": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 841,
+                        "endColumn": 298,
+                        "endOffset": 1135
+                    }
                 }
             },
             {
@@ -638,20 +995,46 @@
                     "startLine": 77,
                     "startColumn": 4,
                     "startOffset": 5840,
-                    "endColumn": 385,
-                    "endOffset": 6221
+                    "endColumn": 43,
+                    "endOffset": 5879
                 },
                 "from": {
-                    "file": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1609,
+                        "endColumn": 43,
+                        "endOffset": 1648
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 78,
                     "startColumn": 4,
-                    "startOffset": 6226,
+                    "startOffset": 5884,
+                    "endColumn": 385,
+                    "endOffset": 6265
+                },
+                "from": {
+                    "file": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1653,
+                        "endColumn": 385,
+                        "endOffset": 2034
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 79,
+                    "startColumn": 4,
+                    "startOffset": 6270,
                     "endColumn": 67,
-                    "endOffset": 6289
+                    "endOffset": 6333
                 },
                 "from": {
                     "file": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\src\\main\\res\\values\\strings.xml",
@@ -666,11 +1049,11 @@
             },
             {
                 "to": {
-                    "startLine": 79,
+                    "startLine": 80,
                     "startColumn": 4,
-                    "startOffset": 6294,
+                    "startOffset": 6338,
                     "endColumn": 81,
-                    "endOffset": 6371
+                    "endOffset": 6415
                 },
                 "from": {
                     "file": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\src\\main\\res\\values\\strings.xml",
@@ -685,23 +1068,30 @@
             },
             {
                 "to": {
-                    "startLine": 80,
+                    "startLine": 81,
                     "startColumn": 4,
-                    "startOffset": 6376,
+                    "startOffset": 6420,
                     "endColumn": 102,
-                    "endOffset": 6474
+                    "endOffset": 6518
                 },
                 "from": {
-                    "file": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 593,
+                        "endColumn": 102,
+                        "endOffset": 691
+                    }
                 }
             },
             {
                 "to": {
-                    "startLine": 81,
+                    "startLine": 82,
                     "startColumn": 4,
-                    "startOffset": 6479,
+                    "startOffset": 6523,
                     "endColumn": 71,
-                    "endOffset": 6546
+                    "endOffset": 6590
                 },
                 "from": {
                     "file": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\src\\main\\res\\values\\strings.xml",
@@ -716,100 +1106,158 @@
             },
             {
                 "to": {
-                    "startLine": 82,
-                    "startColumn": 4,
-                    "startOffset": 6551,
-                    "endColumn": 56,
-                    "endOffset": 6603
-                },
-                "from": {
-                    "file": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\src\\main\\res\\values\\strings.xml"
-                }
-            },
-            {
-                "to": {
                     "startLine": 83,
                     "startColumn": 4,
-                    "startOffset": 6608,
-                    "endColumn": 53,
-                    "endOffset": 6657
+                    "startOffset": 6595,
+                    "endColumn": 56,
+                    "endOffset": 6647
                 },
                 "from": {
-                    "file": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1490,
+                        "endColumn": 56,
+                        "endOffset": 1542
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 84,
                     "startColumn": 4,
-                    "startOffset": 6662,
-                    "endColumn": 99,
-                    "endOffset": 6757
+                    "startOffset": 6652,
+                    "endColumn": 53,
+                    "endOffset": 6701
                 },
                 "from": {
-                    "file": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 329,
+                        "endColumn": 53,
+                        "endOffset": 378
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 85,
                     "startColumn": 4,
-                    "startOffset": 6762,
-                    "endColumn": 106,
-                    "endOffset": 6864
+                    "startOffset": 6706,
+                    "endColumn": 99,
+                    "endOffset": 6801
                 },
                 "from": {
-                    "file": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1298,
+                        "endColumn": 99,
+                        "endOffset": 1393
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 86,
                     "startColumn": 4,
-                    "startOffset": 6869,
-                    "endColumn": 95,
-                    "endOffset": 6960
+                    "startOffset": 6806,
+                    "endColumn": 106,
+                    "endOffset": 6908
                 },
                 "from": {
-                    "file": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 222,
+                        "endColumn": 106,
+                        "endOffset": 324
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 87,
                     "startColumn": 4,
-                    "startOffset": 6965,
-                    "endColumn": 91,
-                    "endOffset": 7052
+                    "startOffset": 6913,
+                    "endColumn": 95,
+                    "endOffset": 7004
                 },
                 "from": {
-                    "file": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 126,
+                        "endColumn": 95,
+                        "endOffset": 217
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 88,
                     "startColumn": 4,
-                    "startOffset": 7057,
-                    "endLine": 90,
-                    "endColumn": 12,
-                    "endOffset": 7135
+                    "startOffset": 7009,
+                    "endColumn": 91,
+                    "endOffset": 7096
                 },
                 "from": {
-                    "file": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\src\\main\\res\\values\\styles.xml"
+                    "file": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1398,
+                        "endColumn": 91,
+                        "endOffset": 1485
+                    }
                 }
             },
             {
                 "to": {
-                    "startLine": 91,
+                    "startLine": 89,
                     "startColumn": 4,
-                    "startOffset": 7140,
-                    "endLine": 93,
+                    "startOffset": 7101,
+                    "endLine": 95,
                     "endColumn": 12,
-                    "endOffset": 7207
+                    "endOffset": 7387
                 },
                 "from": {
-                    "file": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\src\\main\\res\\values\\styles.xml"
+                    "file": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 96,
+                    "startColumn": 4,
+                    "startOffset": 7392,
+                    "endLine": 98,
+                    "endColumn": 12,
+                    "endOffset": 7547
+                },
+                "from": {
+                    "file": "C:\\Users\\hidir\\AndroidStudioProjects\\Kirmancki\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 679
+                    }
                 }
             }
         ]

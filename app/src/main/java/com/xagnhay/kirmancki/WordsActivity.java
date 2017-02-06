@@ -42,7 +42,7 @@ public class WordsActivity extends Activity {
 	List<String> listDataHeader;
 	HashMap<String, List<String>> listDataChild;
 
-	@Override
+    @Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_explistview);
@@ -85,6 +85,7 @@ public class WordsActivity extends Activity {
 		listAdapter = new ExpandableListAdapter(this, listDataHeader, listDataChild);
 
 		expListView.setAdapter(listAdapter);
+
 
 		expListView.setOnGroupClickListener(new OnGroupClickListener() {
 

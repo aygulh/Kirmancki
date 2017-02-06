@@ -61,6 +61,7 @@
     <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDmr5o87NTHwkrbY6avoekCOM4x48ZxZiA</string>
     <string name="lbl_category">Kategoriler</string>
     <string name="menu_about">Hakkında</string>
+    <string name="menu_search">Ara</string>
     <string name="menu_settings">Ayarlar</string>
     <string name="menu_update">Güncelleme Kontrol</string>
     <string name="msg_alertmessage">Çıkmak istediğinizden eminmisiniz? Veritabanı hazırlama işlemi henüz bitmedi. Program düzgün çalışmayabilir.</string>
@@ -87,9 +88,13 @@
     <string name="url_for_words">http://192.168.13.191:8810/HAlarm.zip/words_json.json</string>
     <string name="url_words">http://192.168.13.191:8810/HAlarm.zip/words_json.json</string>
     <style name="AppBaseTheme" parent="android:Theme.Light">
-        
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
     </style>
     <style name="AppTheme" parent="AppBaseTheme">
-        
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
     </style>
 </resources>

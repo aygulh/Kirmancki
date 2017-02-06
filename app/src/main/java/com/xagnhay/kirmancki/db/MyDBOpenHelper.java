@@ -117,7 +117,7 @@ public class MyDBOpenHelper extends SQLiteOpenHelper {
 		db.execSQL("DROP TABLE IF EXISTS " + TABLE_CATEGORY);
 		db.execSQL("DROP TABLE IF EXISTS " + TABLE_WORDS);
 		db.execSQL("DROP TABLE IF EXISTS " + TABLE_LANGS);
-		db.execSQL("DROP TABLE IF EXISTS " + TABLE_CREATE_FAVORITES);
+		db.execSQL("DROP TABLE IF EXISTS " + TABLE_FAVORITES);
 		db.execSQL("DROP TABLE IF EXISTS " + TABLE_TYPES);
 		onCreate(db);
 		//Log.i(LOGTAG, "Database has been upgraded from " + oldVersion + " to " + newVersion);

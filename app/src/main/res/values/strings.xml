@@ -30,4 +30,5 @@
     <string name="msg_serverend">Güncelleme tamamlandı ...</string>
     <string name="msg_words">Rehber verisi alınıyor ... \n \n </string>
     <string name="msg_category">Kategoriler alınıyor ...\n </string>
+    <string name="menu_search">Ara</string>
 </resources>
