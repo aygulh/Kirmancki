@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="50dp"
+    android:background="@android:color/black">
+
+    <TextView
+        android:text="Okuma Rehberi"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center_vertical"
+        android:id="@+id/tvHeadingItem"
+        android:textStyle="normal|bold"
+        android:textSize="20sp"
+        android:textColor="#F8F23C"
+        android:paddingTop="5dp"
+        android:paddingBottom="5dp" />
+
+    <TextView
+        android:text="Sesler ve Telafuz"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView9"
+        android:textColor="#F8F23C"
+        android:textSize="18sp"
+        android:textStyle="normal|bold"
+        android:background="#000000"
+        android:paddingTop="5dp"
+        android:paddingBottom="5dp" />
+
+    <TextView
+        android:text="@string/msg_guideheader"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView3"
+        android:textSize="18sp"
+        android:background="#000000"
+        android:textColor="#F8F23C"
+        android:paddingTop="5dp"
+        android:paddingBottom="5dp" />
+</LinearLayout>

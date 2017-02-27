@@ -4,41 +4,71 @@
     android:orientation="vertical"
     android:background="@drawable/bg4">
 
-    <TextView
-        android:id="@+id/textView2"
-        android:text="@string/lbl_category"
+    <LinearLayout
+        android:orientation="vertical"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_alignParentTop="true"
-        android:layout_alignParentLeft="true"
-        android:textSize="20sp"
-        android:paddingLeft="10dp"
-        android:textStyle="normal|bold"
-        android:paddingTop="10dp"
-        android:paddingBottom="10dp" />
+        android:layout_height="match_parent"
+        android:id="@+id/ll1"
+        android:layout_above="@+id/ll2">
 
-
-    <ListView
-            android:id="@android:id/list"
+        <TextView
+            android:id="@+id/textView2"
+            android:text="@string/lbl_category"
             android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:layout_above="@+id/textView1"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
             android:layout_alignParentLeft="true"
-        android:paddingLeft="10dp"
-        android:layout_below="@+id/textView2">
+            android:textSize="20sp"
+            android:paddingLeft="10dp"
+            android:textStyle="normal|bold"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp" />
 
-        </ListView>
+        <ListView
+                android:id="@android:id/list"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_above="@+id/textView1"
+                android:layout_alignParentLeft="true"
+            android:paddingLeft="10dp"
+            android:layout_below="@+id/textView2">
+
+            </ListView>
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentLeft="true"
+            android:textStyle="normal|bold"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:paddingLeft="10dp" />
+    </LinearLayout>
 
 
-    <TextView
-        android:id="@+id/textView1"
+    <LinearLayout
+        android:orientation="horizontal"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
-        android:layout_alignParentLeft="true"
-        android:textStyle="normal|bold"
-        android:paddingTop="10dp"
-        android:paddingBottom="10dp"
-        android:paddingLeft="10dp" />
+        android:layout_alignParentLeft="false"
+        android:id="@+id/ll2">
+
+        <Button
+            android:text="@string/btn_quiz"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/btnQuiz"
+            android:layout_weight="1" />
+
+        <Button
+            android:text="@string/btn_help"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/btnHelp"
+            android:layout_weight="1" />
+    </LinearLayout>
 
 </RelativeLayout>

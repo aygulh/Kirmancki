@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+android:clickable="false"
+android:descendantFocusability="blocksDescendants"
+android:focusable="false"
+android:focusableInTouchMode="false"
+    android:background="#000000"
+    android:paddingBottom="10dp"
+    android:paddingTop="10dp">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:paddingTop="5dp"
+        android:paddingBottom="5dp">
+
+        <TextView
+            android:id="@+id/tvWord1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Word Lang1"
+            android:layout_gravity="left"
+            android:textSize="20sp"
+            android:textStyle="bold|italic"
+            android:textColor="#F8F23C" />
+
+        <TextView
+            android:text=" --> "
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/tvDash"
+            android:textColor="#F8F23C"
+            android:textSize="20sp"
+            android:textStyle="normal|bold" />
+
+        <TextView
+            android:id="@+id/tvWord2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="[Word Lang2]"
+            android:layout_gravity="right"
+            android:textStyle="bold|italic"
+            android:textSize="20sp"
+            android:textColor="#F8F23C" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:paddingTop="5dp"
+        android:paddingBottom="5dp">
+
+        <TextView
+            android:id="@+id/tvSentence1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Sentence in lang1"
+            android:layout_weight="0.9"
+            android:layout_gravity="left|center_vertical|start"
+            android:padding="5dp"
+            android:textSize="18sp"
+            android:textStyle="normal|bold"
+            android:textColor="#F8F23C" />
+
+        <TextView
+            android:id="@+id/tvSentence2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Sentence in Lang2"
+            android:layout_weight="0.9"
+            android:padding="5dp"
+            android:textSize="18sp"
+            android:textStyle="normal|bold"
+            android:textColor="#F8F23C" />
+
+    </LinearLayout>
+
+</LinearLayout>

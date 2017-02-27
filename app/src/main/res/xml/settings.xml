@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
 
-    <PreferenceCategory android:title="Genel Dil ayarları" >
+    <PreferenceCategory android:title="@string/msg_generalsettings" >
 
         <CheckBoxPreference
             android:defaultValue="true"
-            android:title="Ana Dil - Kırmancki"
-            android:summary="Seçili olduğunda kayıtlar Kırmancki gösterilir, Türkçe karşılıkları öğrenilir. Tersi için kutucuğu işaretsiz bırakın."
+            android:title="@string/msg_nativelang"
+            android:summary="@string/msg_summary"
             android:key="cb_preference" />
     </PreferenceCategory>
 

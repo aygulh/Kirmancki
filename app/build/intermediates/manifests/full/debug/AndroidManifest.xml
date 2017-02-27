@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.xagnhay.kirmancki"
-    android:versionCode="1"
+    android:versionCode="2"
     android:versionName="1.1" >
 
     <uses-sdk
         android:minSdkVersion="16"
-        android:targetSdkVersion="23" />
+        android:targetSdkVersion="25" />
 
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
     <uses-permission android:name="android.permission.INTERNET" />
@@ -45,8 +45,11 @@
         </activity>
         <activity android:name="com.xagnhay.kirmancki.SettingsActivity" >
         </activity>
-        <activity android:name="com.xagnhay.kirmancki.AboutActivity" >
-        </activity>
+        <activity android:name="com.xagnhay.kirmancki.AboutActivity" />
+        <activity android:name="com.xagnhay.kirmancki.QuizActivity" />
+        <activity android:name="com.xagnhay.kirmancki.HelpActivity" />
+        <activity android:name="com.xagnhay.kirmancki.GuideActivity" />
+        <activity android:name="com.xagnhay.kirmancki.GuideDetailActivity" />
 
         <!-- Enable background dispatching to improve delivery on non-Google Play devices -->
         <receiver

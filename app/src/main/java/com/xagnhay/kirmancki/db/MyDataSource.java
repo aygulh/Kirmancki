@@ -8,6 +8,9 @@ import android.database.sqlite.SQLiteOpenHelper;
 import android.util.Log;
 
 import com.xagnhay.kirmancki.model.Category;
+import com.xagnhay.kirmancki.model.Quiz;
+import com.xagnhay.kirmancki.model.W1d;
+import com.xagnhay.kirmancki.model.W1m;
 import com.xagnhay.kirmancki.model.Words;
 
 import java.util.ArrayList;
@@ -36,7 +39,19 @@ public class MyDataSource {
 		MyDBOpenHelper.COLUMN_WORDSTEXT,
 		MyDBOpenHelper.COLUMN_WORDSACTIVE,
 		MyDBOpenHelper.COLUMN_WORDSCUSTOM};
-	
+
+    private static final String[] allW1MColumns = {
+            MyDBOpenHelper.COLUMN_W1LETTER};
+
+    private static final String[] allW1DColumns = {
+            MyDBOpenHelper.COLUMN_W1D_LETTER,
+            MyDBOpenHelper.COLUMN_W1D_WL1,
+            MyDBOpenHelper.COLUMN_W1D_WL2,
+            MyDBOpenHelper.COLUMN_W1D_S1,
+            MyDBOpenHelper.COLUMN_W1D_S2,
+            MyDBOpenHelper.COLUMN_W1D_AUDIO
+    };
+
 	public MyDataSource(Context context) {
 		dbhelper = new MyDBOpenHelper(context);
 	}
@@ -79,7 +94,26 @@ public class MyDataSource {
 		words.setWordId(insertid);
 		return words;
 	}
-	
+
+	public W1m create(W1m w1m) {
+		ContentValues values = new ContentValues();
+		values.put(MyDBOpenHelper.COLUMN_W1LETTER, w1m.getLetter());
+		long insertid = database.insert(MyDBOpenHelper.TABLE_W1M, null, values);
+		return w1m;
+	}
+
+	public W1d create(W1d w1d) {
+		ContentValues values = new ContentValues();
+		values.put(MyDBOpenHelper.COLUMN_W1D_LETTER, w1d.getLetter());
+		values.put(MyDBOpenHelper.COLUMN_W1D_WL1, w1d.getWl1());
+		values.put(MyDBOpenHelper.COLUMN_W1D_WL2, w1d.getWl2());
+		values.put(MyDBOpenHelper.COLUMN_W1D_S1, w1d.getS1());
+		values.put(MyDBOpenHelper.COLUMN_W1D_S2, w1d.getS2());
+		values.put(MyDBOpenHelper.COLUMN_W1D_AUDIO, w1d.getAudio());
+		long insertid = database.insert(MyDBOpenHelper.TABLE_W1D, null, values);
+		return w1d;
+	}
+
 	public Words addWord(Words words) {
 		ContentValues values = new ContentValues();
 		values.put(MyDBOpenHelper.COLUMN_WORDSLANGID, words.getLangId());
@@ -146,6 +180,34 @@ public class MyDataSource {
         }
     }
 
+    public void createBulkGuideMaster(List<W1m> allW1ms){
+        database.beginTransaction();
+        try{
+            for (W1m w1 : allW1ms) {
+                create(w1);
+            }
+            database.setTransactionSuccessful();
+        } catch (Exception e){
+            e.printStackTrace();
+        }finally {
+            database.endTransaction();
+        }
+    }
+
+    public void createBulkGuideDetail(List<W1d> allW1ds){
+        database.beginTransaction();
+        try{
+            for (W1d w1 : allW1ds) {
+                create(w1);
+            }
+            database.setTransactionSuccessful();
+        } catch (Exception e){
+            e.printStackTrace();
+        }finally {
+            database.endTransaction();
+        }
+    }
+
 	public List<Category> findAll(String selection) {
 		
 		Cursor cursor = database.query(MyDBOpenHelper.TABLE_CATEGORY, allColumns, 
@@ -166,6 +228,38 @@ public class MyDataSource {
 		List<Category> categories = cursorToList(cursor);
 		return categories;
 	}
+
+    //to fill spinner on quizactivity with sorted category names
+	public List<String> listCategoriesSpinner(String selection, String orderBy) {
+
+		ArrayList<String> listCat = new ArrayList<String>();
+
+		Cursor cursor = database.query(MyDBOpenHelper.TABLE_CATEGORY, allColumns,
+				selection, null, null, null, orderBy);
+
+		//Log.i(LOGTAG, "Returned " + cursor.getCount() + " rows");
+		if (cursor.getCount() != 0) {
+			while (cursor.moveToNext()){
+				listCat.add(cursor.getString(cursor.getColumnIndex(MyDBOpenHelper.COLUMN_CATNAME)));
+			}
+		}
+		return listCat;
+	}
+
+    public int getCategoryIDforSpinner(String selection) {
+
+        int newCatId = 0;
+        Cursor cursor = database.query(MyDBOpenHelper.TABLE_CATEGORY, allColumns,
+                selection, null, null, null, null);
+
+        Log.i(LOGTAG, "Returned " + cursor.getCount() + " rows");
+        if (cursor.getCount() != 0) {
+            while (cursor.moveToNext()){
+                newCatId = cursor.getInt(cursor.getColumnIndex(MyDBOpenHelper.COLUMN_CATID));
+            }
+        }
+        return newCatId;
+    }
 	
 	private List<Category> cursorToList(Cursor cursor) {
 		List<Category> categories = new ArrayList<Category>();
@@ -288,5 +382,70 @@ public class MyDataSource {
 
         return cursor.getCount();
     }
+
+	public List<Quiz> getAllQuestion(String selection, String orderBy) {
+		List<Quiz> quizQuestions = new ArrayList<>();
+        //List<String> lq = new ArrayList<String>();
+        //List<String> la = new ArrayList<String>();
+
+		Cursor cursor = database.query(MyDBOpenHelper.TABLE_WORDS, allWordsColumns,
+				selection, null, null, null, orderBy);
+		while (cursor.moveToNext()) {
+			Quiz quiz = new Quiz();
+			quiz.setId(cursor.getInt(0));
+			quiz.setQuestion(cursor.getString(1));
+			quiz.setOption1(cursor.getString(2));
+			quiz.setOption2(cursor.getString(3));
+			quiz.setOption3(cursor.getString(4));
+			quiz.setOption4(cursor.getString(5));
+			quiz.setAnswer(cursor.getString(6));
+			quizQuestions.add(quiz);
+		}
+		return quizQuestions;
+	}
+
+    public List<W1m> findAllGuideMaster(String selection) {
+
+        List<W1m> w1ms = new ArrayList<>();
+
+        Cursor cursor = database.query(MyDBOpenHelper.TABLE_W1M, allW1MColumns,
+                selection, null, null, null, null);
+
+        if(cursor.getCount() > 0){
+            while (cursor.moveToNext()){
+                W1m w1m = new W1m();
+                w1m.setLetter(cursor.getString(cursor.getColumnIndex(MyDBOpenHelper.COLUMN_W1LETTER)));
+                w1ms.add(w1m);
+            }
+
+        }
+        //Log.i(LOGTAG, "Returned categories: " + cursor.getCount() + " rows");
+        return w1ms;
+    }
+
+    public List<W1d> findAllGuideDetails(String selection) {
+
+        List<W1d> w1ds = new ArrayList<>();
+
+        Cursor cursor = database.query(MyDBOpenHelper.TABLE_W1D, allW1DColumns,
+                selection, null, null, null, null);
+
+        if(cursor.getCount() > 0){
+            while (cursor.moveToNext()){
+                W1d w1d = new W1d();
+                w1d.setLetter(cursor.getString(cursor.getColumnIndex(MyDBOpenHelper.COLUMN_W1D_LETTER)));
+                w1d.setWl1(cursor.getString(cursor.getColumnIndex(MyDBOpenHelper.COLUMN_W1D_WL1)));
+                w1d.setWl2(cursor.getString(cursor.getColumnIndex(MyDBOpenHelper.COLUMN_W1D_WL2)));
+                w1d.setS1(cursor.getString(cursor.getColumnIndex(MyDBOpenHelper.COLUMN_W1D_S1)));
+                w1d.setS2(cursor.getString(cursor.getColumnIndex(MyDBOpenHelper.COLUMN_W1D_S2)));
+                w1d.setAudio(cursor.getString(cursor.getColumnIndex(MyDBOpenHelper.COLUMN_W1D_AUDIO)));
+                w1ds.add(w1d);
+            }
+
+        }
+        //Log.i(LOGTAG, "Returned categories: " + cursor.getCount() + " rows");
+        return w1ds;
+    }
+
 
 }
