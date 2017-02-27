@@ -17,7 +17,8 @@ import android.widget.Toast;
 import com.xagnhay.kirmancki.db.MyDataSource;
 import com.xagnhay.kirmancki.model.Category;
 
-import org.w3c.dom.Text;
+import com.google.android.gms.analytics.HitBuilders;
+import com.google.android.gms.analytics.Tracker;
 
 import java.util.ArrayList;
 import java.util.Collections;
@@ -29,8 +30,11 @@ public class WordsActivity extends Activity {
     public static final String LOGTAG = WordsActivity.class.getSimpleName();
     public static final String ANADIL="cb_preference";
 
+    private Tracker mTracker;
+
 	private int nativeLanguage = 1;
 	private int translateToLanguage = 2;
+	private boolean toSort;
 	
 	MyDataSource datasource;
 	Category category;
@@ -48,6 +52,15 @@ public class WordsActivity extends Activity {
 		setContentView(R.layout.activity_explistview);
 
 		TextView tvCat = (TextView) findViewById(R.id.tvCategory);
+
+        // [START shared_tracker]
+        // Obtain the shared Tracker instance.
+        KirmanckiApplication application = (KirmanckiApplication) getApplication();
+        mTracker = application.getDefaultTracker();
+        // [END shared_tracker]
+
+        mTracker.setScreenName(WordsActivity.class.getSimpleName());
+        mTracker.send(new HitBuilders.ScreenViewBuilder().build());
 
         settings = PreferenceManager.getDefaultSharedPreferences(this);
         Boolean prefValue=settings.getBoolean(ANADIL,true);
@@ -75,7 +88,19 @@ public class WordsActivity extends Activity {
 //		wordss = datasource.listFilteredWords("langid = " + nativeLanguage + " and catId = " + category.getCatId(), "wordText ASC");
 		
 //		Words wordTranslate = datasource.FindTranslationWord(translateToLanguage, wordNative.getGroupId());
-		
+
+        //do not sort when category is about time and numbers
+        switch ((int) category.getCatId()) {
+            case 3: //numbers
+                toSort = false;
+                break;
+            case 7:  //time
+                toSort = false;
+                break;
+            default:
+                toSort = true;
+                break;
+        }
 		// preparing list data
 
 		prepareListData();
@@ -93,7 +118,7 @@ public class WordsActivity extends Activity {
 			public boolean onGroupClick(ExpandableListView parent, View v,
 					int groupPosition, long id) {
 				 //Toast.makeText(getApplicationContext(),
-				 //"Group Clicked " + listDataHeader.get(groupPosition),
+				 //"Group Clicked " + questionsList.get(groupPosition),
 				 //Toast.LENGTH_SHORT).show();
 				return false;
 			}
@@ -105,7 +130,7 @@ public class WordsActivity extends Activity {
 			@Override
 			public void onGroupExpand(int groupPosition) {
 //				Toast.makeText(getApplicationContext(),
-//						listDataHeader.get(groupPosition) + " Expanded",
+//						questionsList.get(groupPosition) + " Expanded",
 //						Toast.LENGTH_SHORT).show();
 			}
 		});
@@ -116,7 +141,7 @@ public class WordsActivity extends Activity {
 			@Override
 			public void onGroupCollapse(int groupPosition) {
 //				Toast.makeText(getApplicationContext(),
-//						listDataHeader.get(groupPosition) + " Collapsed",
+//						questionsList.get(groupPosition) + " Collapsed",
 //						Toast.LENGTH_SHORT).show();
 
 			}
@@ -130,10 +155,10 @@ public class WordsActivity extends Activity {
 					int groupPosition, int childPosition, long id) {
 //				Toast.makeText(
 //						getApplicationContext(),
-//						listDataHeader.get(groupPosition)
+//						questionsList.get(groupPosition)
 //								+ " : "
-//								+ listDataChild.get(
-//										listDataHeader.get(groupPosition)).get(
+//								+ optionsList.get(
+//										questionsList.get(groupPosition)).get(
 //										childPosition), Toast.LENGTH_SHORT)
 //						.show();
 				return false;
@@ -170,9 +195,11 @@ public class WordsActivity extends Activity {
 //			ld2.add(" -> " + ld.get(i));
 //			ld2.add("-------");
 			listDataChild.put(listDataHeader.get(i), getTranslate(ld, i)); // Header, Child data
-			//Log.i(LOGTAG, listDataHeader.get(i) + " -> " + ld.toString());
+			//Log.i(LOGTAG, questionsList.get(i) + " -> " + ld.toString());
 		}
-		Collections.sort(listDataHeader);
+        if (toSort) {
+            Collections.sort(listDataHeader);
+        }
 	}
 	
 	public List<String> getTranslate(List<String> selection, int position) {

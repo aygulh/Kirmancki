@@ -11,7 +11,9 @@ import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
+import android.view.View.OnClickListener;
 import android.widget.ArrayAdapter;
+import android.widget.Button;
 import android.widget.ListView;
 import android.widget.Toast;
 
@@ -42,8 +44,9 @@ public class MainActivity extends ListActivity {
 	private List<Category> categories;
     private List<Words> words;
 	MyDataSource datasource;
+    Category category;
 
-	/**
+    /**
 	 * The {@link Tracker} used to record screen views.
 	 */
 	private Tracker mTracker;
@@ -53,6 +56,23 @@ public class MainActivity extends ListActivity {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
 
+		final Button btnquiz = (Button) findViewById(R.id.btnQuiz);
+		btnquiz.setOnClickListener(new View.OnClickListener() {
+			public void onClick(View v) {
+				Intent intentQ = new Intent(MainActivity.this, QuizActivity.class);
+				startActivity(intentQ);
+			}
+		});
+
+
+		final Button btnhelp = (Button) findViewById(R.id.btnHelp);
+		btnhelp.setOnClickListener(new View.OnClickListener() {
+			public void onClick(View v) {
+				Intent intentH = new Intent(MainActivity.this, GuideActivity.class);
+				startActivity(intentH);
+			}
+		});
+
 		// [START shared_tracker]
 		// Obtain the shared Tracker instance.
 		KirmanckiApplication application = (KirmanckiApplication) getApplication();
@@ -61,6 +81,9 @@ public class MainActivity extends ListActivity {
 
         mTracker.setScreenName(MainActivity.class.getSimpleName());
         mTracker.send(new HitBuilders.ScreenViewBuilder().build());
+
+        // Enable Display Features. Demographic reports
+		mTracker.enableAdvertisingIdCollection(true);
 
 		datasource = new MyDataSource(this);
 		datasource.open();
@@ -91,13 +114,13 @@ public class MainActivity extends ListActivity {
             learninglanguageid = 1;
         }
 
-        String txtComent = null;
-        if (nativelanguageid == 1)
-            txtComent = getResources().getText(R.string.msg_dil1).toString();
-        else
-            txtComent = getResources().getText(R.string.msg_dil2).toString();
+        //String txtComent = null;
+        //if (nativelanguageid == 1)
+        //    txtComent = getResources().getText(R.string.msg_dil1).toString();
+        //else
+        //    txtComent = getResources().getText(R.string.msg_dil2).toString();
 
-        UIHelper.displayText(this, R.id.textView1, txtComent);
+        //UIHelper.displayText(this, R.id.textView1, txtComent);
 
         getLangCategories();
 
@@ -116,7 +139,7 @@ public class MainActivity extends ListActivity {
 	protected void onListItemClick(ListView l, View v, int position, long id) {
 		super.onListItemClick(l, v, position, id);
 
-		Category category = categories.get(position);
+		category = categories.get(position);
 
 		if (datasource.CountWords(category.getCatId()) > 0) {
 
@@ -149,6 +172,11 @@ public class MainActivity extends ListActivity {
 	public boolean onOptionsItemSelected(MenuItem item) {
 		switch (item.getItemId()) {
 
+			//case R.id.menu_quiz:
+			//	Intent intent0 = new Intent(this, QuizActivity.class);
+			//	startActivity(intent0);
+			//	break;
+
             case R.id.menu_settings:
                 Intent intent1 = new Intent(this, SettingsActivity.class);
                 startActivity(intent1);
@@ -168,10 +196,12 @@ public class MainActivity extends ListActivity {
                 break;
         }
 
+        /*
 		mTracker.send(new HitBuilders.EventBuilder()
 				.setCategory("Menu Actions")
 				.setAction(item.getTitle().toString())
 				.build());
+				*/
 
 		return super.onOptionsItemSelected(item);
 	}

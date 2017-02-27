@@ -9,7 +9,7 @@ public class MyDBOpenHelper extends SQLiteOpenHelper {
 	private static final String LOGTAG = "KIRMANCKI DBHELPER";
 
 	private static final String DATABASE_NAME = "kirmancki.db";
-	private static final int DATABASE_VERSION = 2;
+	private static final int DATABASE_VERSION = 3;
 	
 	public static final String TABLE_CATEGORY = "category";
 	public static final String COLUMN_CATID   = "catId";
@@ -95,6 +95,31 @@ public class MyDBOpenHelper extends SQLiteOpenHelper {
 			COLUMN_TYPEID + " INTEGER PRIMARY KEY AUTOINCREMENT, " +
 			COLUMN_TYPENAME + " TEXT " +			
 			")";
+
+	public static final String TABLE_W1M = "w1m";
+	public static final String COLUMN_W1LETTER   = "letter";
+
+	private static final String TABLE_CREATE_W1M =
+			"CREATE TABLE " + TABLE_W1M + "(" +
+					COLUMN_W1LETTER + " TEXT PRIMARY KEY)";
+
+	public static final String TABLE_W1D = "w1d";
+	public static final String COLUMN_W1D_LETTER = "letter";
+	public static final String COLUMN_W1D_WL1 = "wl1"; //word native language
+	public static final String COLUMN_W1D_WL2 = "wl2"; //word tr
+	public static final String COLUMN_W1D_S1 = "s1";  //sentence native language
+	public static final String COLUMN_W1D_S2 = "s2"; //sentence tr
+	public static final String COLUMN_W1D_AUDIO = "audio"; //voice file name
+
+	private static final String TABLE_CREATE_W1D =
+			"CREATE TABLE " + TABLE_W1D + "(" +
+					COLUMN_W1D_LETTER + " TEXT, " +
+					COLUMN_W1D_WL1 + " TEXT, " +
+					COLUMN_W1D_WL2 + " TEXT, " +
+					COLUMN_W1D_S1 + " TEXT, " +
+					COLUMN_W1D_S2 + " TEXT, " +
+					COLUMN_W1D_AUDIO + " TEXT " +
+					")";
 	
 	public MyDBOpenHelper(Context context) {
 		super(context, DATABASE_NAME, null, DATABASE_VERSION);
@@ -109,6 +134,8 @@ public class MyDBOpenHelper extends SQLiteOpenHelper {
 		db.execSQL(TABLE_CREATE_LANGS);
 		db.execSQL(TABLE_CREATE_FAVORITES);
 		db.execSQL(TABLE_CREATE_TYPES);
+        db.execSQL(TABLE_CREATE_W1M);
+        db.execSQL(TABLE_CREATE_W1D);
 		//Log.i(LOGTAG, "Tables has been created");
 	}
 
@@ -119,6 +146,8 @@ public class MyDBOpenHelper extends SQLiteOpenHelper {
 		db.execSQL("DROP TABLE IF EXISTS " + TABLE_LANGS);
 		db.execSQL("DROP TABLE IF EXISTS " + TABLE_FAVORITES);
 		db.execSQL("DROP TABLE IF EXISTS " + TABLE_TYPES);
+        db.execSQL("DROP TABLE IF EXISTS " + TABLE_W1M);
+        db.execSQL("DROP TABLE IF EXISTS " + TABLE_W1D);
 		onCreate(db);
 		//Log.i(LOGTAG, "Database has been upgraded from " + oldVersion + " to " + newVersion);
 	}

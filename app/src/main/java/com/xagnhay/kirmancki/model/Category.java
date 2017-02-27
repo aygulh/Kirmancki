@@ -35,6 +35,7 @@ public class Category implements Parcelable{
 	public void setCatLangId(long catlangId) {
 		this.catLangId = catlangId;
 	}
+
 	@Override
 	public String toString() {
 		return catName; // + " (" + catId + ")";

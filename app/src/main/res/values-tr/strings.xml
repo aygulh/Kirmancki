@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Pratik Kırmancki Öğrenme Klavuzu</string>
+    <string name="url_for_words">http://192.168.13.191:8810/HAlarm.zip/words_json.json</string>
+    <string name="url_for_categoryies">http://192.168.13.191:8810/HAlarm.zip/categories_json.json</string>
+    <string name="settings_app_name">Ayarlar</string>
+    <string name="menu_quiz">Quiz</string>
+    <string name="menu_settings">Ayarlar</string>
+    <string name="menu_update">Güncelleme Kontrol</string>
+    <string name="menu_about">Hakkında</string>
+    <string name="lbl_category">Kategoriler</string>
+    <string name="msg_wait">İlk kullanım için veritabanı oluşturuluyor. Lütfen bekleyin .....</string>
+    <string name="msg_count">Toplam yüklenen veri sayısı:</string>
+    <string name="msg_ctgry">Bu Kategoriye ait detay bulunamadı ....</string>
+    <string name="msg_firstsetup">Program ilk kez çalıştırıldığı için bu ekranı görüyorsunuz ve sözlük veritabanı hazırlanıyor. Bu işlem bir kaç dakika sürebilir. Veritabanı oluşturulduktan sonra, sonraki çalıştırmalarda bu ekran görünmeyecektir. Bu işlem bitene kadar programı kapatmayın.</string>
+    <string name="msg_dil1">Ana dil: Kırmancki, Öğrenilen dil: Türkçe</string>
+    <string name="msg_dil2">Ana dil: Türkçe, Öğrenilen dil: Kırmancki</string>
+    <string name="url_category">http://192.168.13.191:8810/HAlarm.zip/categories_json.json</string>
+    <string name="url_words">http://192.168.13.191:8810/HAlarm.zip/words_json.json</string>
+    <string name="msg_yazan">Yazan: Hıdır Aygül</string>
+    <string name="msg_email">email: aygulh@gmail.com</string>
+    <string name="msg_help">Yardım</string>
+    <string name="msg_helptext">Güncellemeleri almak için menuden \"Güncelleme Kontrol\" seçilerek sunucuda yeni eklenen veriler varsa alınabilir. \n \n \"Ayarlar\" menüsünden hangi dilde kelimeri gösterip, hangi dilde öğrenmek istediğinizi seçebilirsiniz. Örneğin Kırmancki de gösterim için kutucuğu işaretlemek gerekir. İşaretli değilse ekrandaki bilgiler Türkçe gösterilir.</string>
+    <string name="btn_close">Kapat</string>
+    <string name="msg_alerttitle">Programdan Çıkılıyor..</string>
+    <string name="msg_alertmessage">Çıkmak istediğinizden eminmisiniz? Veritabanı hazırlama işlemi henüz bitmedi. Program düzgün çalışmayabilir.</string>
+    <string name="msg_alertyes">Evet</string>
+    <string name="msg_alertno">Hayır</string>
+    <string name="msg_serverstart">Sunucundan veriler alınıyor... \n \n </string>
+    <string name="msg_serverend">Güncelleme tamamlandı ...</string>
+    <string name="msg_words">Rehber verisi alınıyor ... \n \n </string>
+    <string name="msg_category">Kategoriler alınıyor ...\n </string>
+    <string name="menu_search">Ara</string>
+    <string name="btn_quiz">quiz</string>
+    <string name="btn_help">telafuz</string>
+    <string name="msg_chosecategory">Kategori Seç:</string>
+    <string name="msg_correct">Doğru : %s</string>
+    <string name="msg_wrong">Yanlış : %s </string>
+    <string name="msg_totalq">Toplam soru : </string>
+    <string name="msg_toast">Yanlış cevap !!!</string>
+    <string name="msg_generalsettings">Genel Dil ayarları</string>
+    <string name="msg_nativelang">Ana Dil - Kırmancki</string>
+    <string name="msg_summary">Seçili olduğunda kayıtlar Kırmancki gösterilir, Türkçe karşılıkları öğrenilir. Tersi için kutucuğu işaretsiz bırakın.</string>
+    <string name="msg_guideheader">Kırmancki (Zazaca) yazım ve yazılanı okuma ile ilgili çeşitli alfabe çalışmaları internette bulunabilir. Burada mümkün olduğunca standart yaygın klavyelerde kullanılan karakterler kullanılarak sesler tanımlanmaya çalışılmıştır. \n \nDilimizde kullandığımız pek çok sesin bu standart harflerle anlatmanın kolay olmayacağı da açıktır. Yine de bu seslerin bir kısmını anlatabilmek için tek harf (Q, W, X vs gibi), bazıları için ise birden fazla standart harf (Ch, Ph, Çh vs gibi) birarada kullanılarak tanımlanmaya çalışılacaktır. \n \nBu bölümde bunlarla ilgili örnekler verilerek uygulama içerisindeki kelime, deyim ve sözlerin istenen biçimde okunmasına yardımcı olmaya çalışacağız.</string>
+</resources>

@@ -23,7 +23,8 @@ public class SettingsActivity extends PreferenceActivity {
         mTracker = application.getDefaultTracker();
         // [END shared_tracker]
 
-        mTracker.setScreenName(SettingsActivity.class.getSimpleName());
+		mTracker.setScreenName(SettingsActivity.class.getSimpleName());
         mTracker.send(new HitBuilders.ScreenViewBuilder().build());
+
 	}
 }
